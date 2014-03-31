@@ -1,0 +1,134 @@
+<html>
+<head>  
+    <title>Spark IO Reader</title>
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script>
+        $( function() {   
+            // Edit these values first! The externalURL variable should be the
+            // unique URL of your agent. e.g. the last part of:
+            // https://agent.electricimp.com/UpyYpRLmBB7m
+            // pollRate defines how often the values on your page will refresh.
+			var externalURL ="cO9YYECPe4jt";
+            var pollRate = 800;
+
+			var messages = ["Welcome!", "Hello!", "Great to see you!", "How've you been?!", "Hola!"];
+			var background_colors = ["#00FF59", "#FF00FB", "#F6FF00","#00DDFF","#00F2FF"];
+			var text_colors = ["#0038D4", "#D4000B", "#00A80E", "#A8009A", "#A702C4"];
+			
+			var trigger_value = 400;
+
+			function welcome() {	
+				// pick three random numbers from 0 and 4
+				pick_message_text = Math.floor(Math.random()*4);
+				pick_background_color = Math.floor(Math.random()*4);
+				pick_text_color = Math.floor(Math.random()*4);
+				
+				// change the display .. first show the random text message
+				$("#bigtext").html(messages[pick_message_text]);
+				$("#bigbox").css("color",text_colors[pick_text_color]);
+				$("#bigbox").css("background", background_colors[pick_background_color] );
+				// ... then change the colors;
+			
+				
+			}
+			
+			function title_slide() {
+				$("#bigtext").html("Cooking With Hardware<div id='byline'>@liza_stark &nbsp;&nbsp; @jkeefe</div>");
+				$("#bigbox").css("background","#FFFFFF");
+				$("#bigbox").css("color","#0000FF");
+				$("#byline").show();
+			}
+
+            function poll(){
+                // Construct an ajax() GET request.
+                // http://www.w3schools.com/jquery/ajax_ajax.asp
+
+                $.ajax({
+                    type: "get",
+                    url: "https://api.spark.io/v1/devices/48ff6b065067555017531287/mat?access_token=abfa241381fec363aa7081248cfbc413f7501b53",  // URL of our spark core
+                    dataType: "json",   // Expect JSON-formatted response from agent.
+                    success: function(agentMsg) {   // Function to run when request succeeds.
+
+                        // jQuery find different values id and overwrite its data with "pin1" key value in agentMsg
+                        $("#light").html(agentMsg.result);
+                        $("#connected").html(agentMsg.coreInfo.connected);
+						$("#last_heard").html(agentMsg.coreInfo.last_heard);
+						
+						// has someone stepped on the mat, pushing the spark's 
+						// "mat" value over the trigger_value?
+
+						if (agentMsg.result < trigger_value){
+							// run the colorful welcome display
+							welcome();
+						} else {
+							// otherwise show the title slide
+							title_slide();
+						}
+						
+                    },
+                    error: function(err) {
+                        console.log("err"+ err.status)
+                    }
+                });
+            }
+
+            // setInterval is Javascript method to call a function at a specified interval.
+            // http://www.w3schools.com/jsref/met_win_setinterval.asp
+            setInterval(function(){ poll(); }, pollRate);
+
+            // This function updates the 
+
+        });
+    </script>
+
+	<style>
+
+	#body {
+
+		
+	}
+	
+	#bigbox {
+		background: #FFFFFF;
+		color: #0000FF;
+		position: absolute;
+		top: 0;
+		height: 100%;
+		width: 100%;
+		text-align: center;	
+	}
+	
+	#bigtext {
+		font-size: 90px;
+		width: 100%;
+		font-family: helvetica;
+		position: absolute;
+		top: 40%;
+		
+	}
+	
+	#byline {
+		margin-top: 50px;
+		font-size:50px;
+	}
+	
+	#pins {
+		color: #CCC;
+	}
+
+	</style>
+
+</head>
+    <body>
+        
+		<div id="bigbox">
+			<div id="bigtext">
+				Cooking With Hardware
+			</div>	
+	        <div id="pins">
+		        <p> <b>Value:</b> <span id="light"><!--  --></span> | <b>Connected:</b> <span id="connected"><!--  --></span> | <b>Last Heard From Device:</b> <span id="last_heard"><!-- --></span>
+			</div>
+		</div>
+			
+    </body>
+</html>
