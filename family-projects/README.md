@@ -19,11 +19,39 @@ You can buy just these parts from Adafruit or Sparkfun using the buttons below.
 
 [Buy from Adafruit >](http://www.adafruit.com/wishlists/403572) [Buy from Sparkfun >](https://www.sparkfun.com/wish_lists/127673)
 
-These ingredients are also found in every Arduino starter kit [I've listed below](#kits).
+These ingredients are also found in all of the Arduino starter kits [I've listed below](#kits).
+
+### Installation Links
+
+The book outlines how to install Arduino software on Mac, Windows or Ubuntu computers, but Arduino also works on various flavors of Linux. Here are additional resources:
+
+- [Getting Started with Arduino on Mac OS](https://www.arduino.cc/en/Guide/MacOSX)
+- [Getting Started with Arduino on Windows](https://www.arduino.cc/en/Guide/Windows)
+- [Installing Arduino on Ubuntu](http://playground.arduino.cc/Linux/Ubuntu)
+- [Installing Arduino for Debian](http://playground.arduino.cc/Linux/Debian)
+- [Installing Arduino on Fedora](http://playground.arduino.cc/Linux/Fedora)
+
+## Hello Blinky World
+
+Traditionally, when people begin learning something new about computers, 
+their first project is to make the computer say, "hello world." Among 
+blinky makers, our "hello world" is LED flash on and off. That's what happens in this chapter.
+
+### Ingredients
+
+In addition to your own computer, here's what you'll need for this chapter.
+
+- 1 Arduino Uno (Revision 3)
+- 1 Ardunio USB cable 
+- 1 LED
 
 ### Code
 
-There's no code needed for this chapter! But this might be a good time [to download the file](https://github.com/jkeefe/family-projects-sketches/archive/master.zip) containing all of the programs used in this book.
+The code for this project actually comes with the Arduino software. You can find it by navigating to the "Blink" sketch by going to the menu bar and chosing _File_ &#8594; _Examples_ &#8594; _01.Basics_ &#8594; _Blink_.
+
+I've also included it in the collection of every program in this book, which [you can download as a file](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). 
+
+Once you do, navigate to your downloads file and unzip (often just by clicking) the file `family-projects-sketches-master.zip`. All of the programs are right there, and can be launched in your Arduino by clicking on them.
 
 # Kits
 
