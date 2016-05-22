@@ -57,7 +57,7 @@ You can also copy it from here:
   Turns on an LED on for one second, then off for one second, repeatedly.
 
   Most Arduinos have an on-board LED you can control. On the Uno and
-  Leonardo, it is attached to digital pin 13. If you're unsure what
+  Leonardo, it is attached to digital pin 13. If you are unsure what
   pin the on-board LED is connected to on your Arduino model, check
   the documentation at http://www.arduino.cc
 
@@ -83,7 +83,7 @@ void loop() {
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads file and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -165,7 +165,7 @@ void loop() {
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads file and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -258,7 +258,7 @@ void loop() {
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads file and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -344,7 +344,7 @@ void loop() {
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads file and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -409,7 +409,7 @@ void loop()
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads file and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -498,7 +498,7 @@ void loop() {
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads file and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -508,7 +508,7 @@ In the "Taking it Further" section of this chapter, I mention a cool material ca
 
 ## Electric Candle
 
-// paste descrpition//
+In this chapter, we use a "hot-wire" wind detector to make an electric candle you can actually blow out. 
 
 ### Ingredients 
 
@@ -516,26 +516,610 @@ In addition to your own computer, here's what you'll need for this chapter.
 
 - 1 Arduino Uno
 - 1 Arduino USB cable 
-- 1 Arduino power supply
 - 1 Breadboard
 - 1 push button 
 - 1 LED
 - 10 jumper wires 
-- Your computer
 
-Most of these ingredients are also found in the Arduino starter kits [I've listed below](#kits).
+_Special items_
+
+- 1 [Modern Device Wind Sensor](https://moderndevice.com/product/wind-sensor/)
+- [Soldering iron](https://www.sparkfun.com/products/9507)
+- [Solder](https://www.sparkfun.com/products/9325)
+
+_Optional Items_
+
+- 1 Arduino power supply
+
+Almost all of the ingredients you'll need come in Arduino starter kits [I've listed below](#kits), with a notable exception &#8212; the [wind sensor from Modern Device](https://moderndevice.com/product/wind-sensor/). 
+
+Assembling the wind sensor requires a small amount of soldering -- which requires a soldering iron and solder. If you don't have these at home, you can get them at a local hardware or hobby store, and of course from an online seller. Here's the Sparkfun links to a [soldering iron](https://www.sparkfun.com/products/9507) (they have many) and also some [lead-free solder](https://www.sparkfun.com/products/9325). 
+
+The optional power supply allows you to untether your Arduino from your computer and keep it running. Arduinos get their power either from the USB port or from the round "barrel" jack next to the Arduino's USB outlet. If you kit doesn't come with a separate power supply, you can buy [one that fits the barrel jack](https://www.adafruit.com/products/276) or [this nifty version](https://www.adafruit.com/products/501) that uses your Arduino's USB cable instead.
 
 ### Code
 
 ```arduino
+/* Modern Device Wind Sensor Sketch for Rev C Wind Sensor 
+ * 
+ *  
+ Hardware Setup: 
+ Wind Sensor Signals    Arduino
+ GND                    GND
+ +V                     5V
+ RV                     A1    // modify the definitions below to use other pins
+ TMP                    A0    // modify the definitions below to use other pins
+ 
+ Paul Badger 2014
+ Original at https://github.com/moderndevice/Wind_Sensor
+ Licensed for use on official Modern Device hardware
+ 
+ Revised by John Keefe 2016
+ 
+ Hardware setup:
+ Wind Sensor is powered from a regulated five volt source.
+ RV pin and TMP pin are connected to analog inputs.
+ 
+ */
 
-// paste code
+#define analogPinForRV    1   // change to pins you the analog pins are using
+#define analogPinForTMP   0
 
+const float zeroWindAdjustment =  .2; 
+int TMP_Therm_ADunits;  
+float RV_Wind_ADunits;   
+float RV_Wind_Volts;
+unsigned long lastMillis;
+int TempCtimes100;
+float zeroWind_ADunits;
+float zeroWind_volts;
+float WindSpeed_MPH;
+
+int led = 13;              // candle LED 
+const int buttonPin = 2;   // the pushbutton pin
+int buttonState = 0;       // variable for reading the pushbutton status
+
+void setup() {
+  
+  // initialize the digital pin as an output.
+  pinMode(led, OUTPUT); 
+  
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPin, INPUT);    
+  
+  // turn LED on
+  digitalWrite(led, HIGH);
+
+}
+
+void loop() {
+  
+  buttonState = digitalRead(buttonPin);
+
+  if (millis() - lastMillis > 200){   
+    
+    TMP_Therm_ADunits = analogRead(analogPinForTMP);
+    RV_Wind_ADunits = analogRead(analogPinForRV);
+    RV_Wind_Volts = (RV_Wind_ADunits *  0.0048828125);
+
+    // these are all derived from regressions from raw data as such they depend on a lot of experimental factors
+    // such as accuracy of temp sensors, and voltage at the actual wind sensor, (wire losses) which were unaccouted for.
+    TempCtimes100 = (0.005 *((float)TMP_Therm_ADunits * (float)TMP_Therm_ADunits)) - (16.862 * (float)TMP_Therm_ADunits) + 9075.4;  
+
+    zeroWind_ADunits = -0.0006*((float)TMP_Therm_ADunits * (float)TMP_Therm_ADunits) + 1.0727 * (float)TMP_Therm_ADunits + 47.172;  //  13.0C  553  482.39
+
+    zeroWind_volts = (zeroWind_ADunits * 0.0048828125) - zeroWindAdjustment;  
+    
+   WindSpeed_MPH =  pow(((RV_Wind_Volts - zeroWind_volts) /.2300) , 2.7265);   
+    
+    if (WindSpeed_MPH > 6) {
+      douseCandle();
+    }
+    
+    if (buttonState == HIGH) {
+      lightCandle();
+    }
+    
+    lastMillis = millis();    
+  } 
+
+}
+
+void douseCandle() {
+
+  // turn LED off
+  digitalWrite(led, LOW);
+  
+}
+
+void lightCandle() {
+
+  digitalWrite(led, HIGH);
+  
+}
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads file and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
+
+
+### Useful Links
+
+Soldering is a great skill to have, and it's super easy to learn. Here's an excellent guide from Adafruit:
+
+- [Adafruit Guide to Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
+
+
+## Invisible Ruler
+
+Maybe you know how bats "see" with sound: Emitting high-pitched clicks 
+and listening for how those sounds bounce off of things. It's called 
+"echolocation" because the bats literally locate things using echoes. In this chapter, we make an Arduino do the same thing!
+
+### Ingredients 
+
+In addition to your own computer, here's what you'll need for this chapter.
+
+- 1 Arduino Uno
+- 1 Arduino USB cable 
+- 1 Breadboard
+- 3 Jumper cables
+
+_Special parts_
+
+- 1 [Parallax Ping sensor](http://www.amazon.com/Parallax-Ultrasonic-Range-Sensor-28015/dp/B004SRTM0K)
+
+_Optional parts_
+
+- 1 LED
+
+Almost all of the ingredients you'll need come in Arduino starter kits [I've listed below](#kits), with a notable exception &#8212; the [Parallax Ping sensor](http://www.amazon.com/Parallax-Ultrasonic-Range-Sensor-28015/dp/B004SRTM0K), which you'll need to buy separately. These are common enough that you can sometimes find them in local hobby or electronics stores, too.
+
+### Code
+
+Here's the sketch used in this chapter:
+
+```arduino
+/* Ping))) Sensor
+
+   http://www.arduino.cc/en/Tutorial/Ping
+   
+   created 3 Nov 2008
+   by David A. Mellis
+   modified 30 Aug 2011
+   by Tom Igoe
+ 
+   This example code is in the public domain.
+
+ */
+
+const int pingPin = 7;
+
+void setup() {
+  // initialize serial communication:
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  // establish variables for duration of the ping, 
+  // and the distance result in inches and centimeters:
+  long duration, inches, cm;
+
+  // The PING))) is triggered by a HIGH pulse of 2 or more microseconds.
+  // Give a short LOW pulse beforehand to ensure a clean HIGH pulse:
+  pinMode(pingPin, OUTPUT);
+  digitalWrite(pingPin, LOW);
+  delayMicroseconds(2);
+  digitalWrite(pingPin, HIGH);
+  delayMicroseconds(5);
+  digitalWrite(pingPin, LOW);
+
+  // The same pin is used to read the signal from the PING))): a HIGH
+  // pulse whose duration is the time (in microseconds) from the sending
+  // of the ping to the reception of its echo off of an object.
+  pinMode(pingPin, INPUT);
+  duration = pulseIn(pingPin, HIGH);
+
+  // convert the time into a distance
+  inches = microsecondsToInches(duration);
+  cm = microsecondsToCentimeters(duration);
+  
+  Serial.print(inches);
+  Serial.print("in, ");
+  Serial.print(cm);
+  Serial.print("cm");
+  Serial.println();
+  
+  delay(100);
+}
+
+long microsecondsToInches(long microseconds)
+{
+  // According to Parallax's datasheet for the PING))), there are
+  // 73.746 microseconds per inch (i.e. sound travels at 1130 feet per
+  // second).  This gives the distance travelled by the ping, outbound
+  // and return, so we divide by 2 to get the distance of the obstacle.
+  // See: http://www.parallax.com/dl/docs/prod/acc/28015-PING-v1.3.pdf
+  return microseconds / 74 / 2;
+}
+
+long microsecondsToCentimeters(long microseconds)
+{
+  // The speed of sound is 340 m/s or 29 microseconds per centimeter.
+  // The ping travels out and back, so to find the distance of the
+  // object we take half of the distance travelled.
+  return microseconds / 29 / 2;
+}
+```
+
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+
+You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
+
+
+## Get Your Arduino Online
+
+In this chapter, we use an inexpensive wifi board to get an Arduino onto the internet. This project forms the foundation for the chapters in the rest of the book.
+
+### Ingredients 
+
+In addition to your own computer, here's what you'll need for this chapter.
+
+- 1 Arduino Uno
+- 1 Ardunio USB cable 
+
+_Special items_
+
+- 1 [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287)
+- 1 set of [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417)
+- [Soldering iron](https://www.sparkfun.com/products/9507)
+- [Solder](https://www.sparkfun.com/products/9325)
+
+_Optional items_
+
+- 1 Breadboard
+- 1 set of [Break-Away Headers](https://www.sparkfun.com/products/116)
+
+The key part here is the [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287), and also the [Stackable Headers](https://www.sparkfun.com/products/11417) needed to connect the wifi board to an Arduino.
+
+The optional [Break-Away Headers](https://www.sparkfun.com/products/116) and breadboard really help to hold your wifi board in place while soldering. 
+
+Soldering the stackable headers to the wif board requires a soldering iron and solder. If you don't have these, you can get them at a local hardware or hobby store, and of course from an online seller. Here's the Sparkfun links to a [soldering iron](https://www.sparkfun.com/products/9507) (they have many) and also some [lead-free solder](https://www.sparkfun.com/products/9325). 
+
+
+### Code
+
+To use the wifi board with the Arduino, we use a libary from Sparkfun, which is [available as a zip file](http://bit.ly/sparkfun-wifi). To add the library to your Arudino software ...
+
+- Download the "wifi" library by [clicking this link](http://bit.ly/sparkfun-wifi).
+- That should download a compressed file with a ridiculously long name called `SparkFun_ESP8266_AT_Arduino_Library-master.zip`. Don't unzip it!
+- Start your Arduino software (if it's not running already).
+- From the menu bar, select _Sketch_ &#8594; _Include Library_ &#8594; _Add .ZIP Library ..._
+- Navigate to the place your browser saved `SparkFun_ESP8266_AT_Arduino_Library-master.zip` (it's very likely in your "Downloads" folder). 
+- Select `SparkFun_ESP8266_AT_Arduino_Library-master.zip` and click the "Choose" button.
+- Quit your Arduino software and restart it.
+
+The library includes example code we need to get up and running. From the Arduino software menu bar it's at _File_ &#8594; _Examples_ &#8594; _SparkFun ESP8266 AT Library_ &#8594; _ESP8266_Sheild_Demo_. 
+
+I've reproduced it here for reference: 
+
+```arduino
+/************************************************************
+ESP8266_Shield_Demo.h
+SparkFun ESP8266 AT library - Demo
+Jim Lindblom @ SparkFun Electronics
+Original Creation Date: July 16, 2015
+https://github.com/sparkfun/SparkFun_ESP8266_AT_Arduino_Library
+
+This example demonstrates the basics of the SparkFun ESP8266
+AT library. It will show you how to connect to a WiFi network,
+get an IP address, connect over TCP to a server (as a client),
+and set up a TCP server of our own.
+
+Development environment specifics:
+  IDE: Arduino 1.6.5
+  Hardware Platform: Arduino Uno
+  ESP8266 WiFi Shield Version: 1.0
+
+This code is released under the MIT license.
+
+Distributed as-is; no warranty is given.
+************************************************************/
+
+//////////////////////
+// Library Includes //
+//////////////////////
+// SoftwareSerial is required (even you do not intend on
+// using it).
+#include <SoftwareSerial.h> 
+#include <SparkFunESP8266WiFi.h>
+
+//////////////////////////////
+// WiFi Network Definitions //
+//////////////////////////////
+// Replace these two character strings with the name and
+// password of your WiFi network.
+const char mySSID[] = "yourSSIDhere";
+const char myPSK[] = "yourPWDhere";
+
+//////////////////////////////
+// ESP8266Server definition //
+//////////////////////////////
+// server object used towards the end of the demo.
+// (This is only global because it is called in both setup()
+// and loop()).
+ESP8266Server server = ESP8266Server(80);
+
+//////////////////
+// HTTP Strings //
+//////////////////
+const char destServer[] = "example.com";
+const String htmlHeader = "HTTP/1.1 200 OK\r\n"
+                          "Content-Type: text/html\r\n"
+                          "Connection: close\r\n\r\n"
+                          "<!DOCTYPE HTML>\r\n"
+                          "<html>\r\n";
+
+const String httpRequest = "GET / HTTP/1.1\n"
+                           "Host: example.com\n"
+                           "Connection: close\n\n";
+
+// All functions called from setup() are defined below the
+// loop() function. They modularized to make it easier to
+// copy/paste into sketches of your own.
+void setup() 
+{
+  // Serial Monitor is used to control the demo and view
+  // debug information.
+  Serial.begin(9600);
+  serialTrigger(F("Press any key to begin."));
+
+  // initializeESP8266() verifies communication with the WiFi
+  // shield, and sets it up.
+  initializeESP8266();
+
+  // connectESP8266() connects to the defined WiFi network.
+  connectESP8266();
+
+  // displayConnectInfo prints the local IP
+  // and the network it is connected to.
+  displayConnectInfo();
+
+  serialTrigger(F("Press any key to connect client."));
+  clientDemo();
+  
+  serialTrigger(F("Press any key to test server."));
+  serverSetup();
+}
+
+void loop() 
+{
+  serverDemo();
+}
+
+void initializeESP8266()
+{
+  // esp8266.begin() verifies that the ESP8266 is operational
+  // and sets it up for the rest of the sketch.
+  // It returns either true or false -- indicating whether
+  // communication was successul or not.
+  // true
+  int test = esp8266.begin();
+  if (test != true)
+  {
+    Serial.println(F("Error talking to ESP8266."));
+    errorLoop(test);
+  }
+  Serial.println(F("ESP8266 Shield Present"));
+}
+
+void connectESP8266()
+{
+  // The ESP8266 can be set to one of three modes:
+  //  1 - ESP8266_MODE_STA - Station only
+  //  2 - ESP8266_MODE_AP - Access point only
+  //  3 - ESP8266_MODE_STAAP - Station/AP combo
+  // Use esp8266.getMode() to check which mode it is in:
+  int retVal = esp8266.getMode();
+  if (retVal != ESP8266_MODE_STA)
+  { // If it is not in station mode.
+    // Use esp8266.setMode([mode]) to set it to a specified
+    // mode.
+    retVal = esp8266.setMode(ESP8266_MODE_STA);
+    if (retVal < 0)
+    {
+      Serial.println(F("Error setting mode."));
+      errorLoop(retVal);
+    }
+  }
+  Serial.println(F("Mode set to station"));
+
+  // esp8266.status() indicates the ESP8266 WiFi connect
+  // status.
+  // A return value of 1 indicates the device is already
+  // connected. 0 indicates disconnected. (Negative values
+  // equate to communication errors.)
+  retVal = esp8266.status();
+  if (retVal <= 0)
+  {
+    Serial.print(F("Connecting to "));
+    Serial.println(mySSID);
+    // esp8266.connect([ssid], [psk]) connects the ESP8266
+    // to a network.
+    // On success the connect function returns a value >0
+    // On fail, the function will either return:
+    //  -1: TIMEOUT - The library has a set 30s timeout
+    //  -3: FAIL - Could not connect to network.
+    retVal = esp8266.connect(mySSID, myPSK);
+    if (retVal < 0)
+    {
+      Serial.println(F("Error connecting"));
+      errorLoop(retVal);
+    }
+  }
+}
+
+void displayConnectInfo()
+{
+  char connectedSSID[24];
+  memset(connectedSSID, 0, 24);
+  // esp8266.getAP() can be used to check which AP the
+  // ESP8266 is connected to. It returns an error code.
+  // The connected AP is returned by reference as a parameter.
+  int retVal = esp8266.getAP(connectedSSID);
+  if (retVal > 0)
+  {
+    Serial.print(F("Connected to: "));
+    Serial.println(connectedSSID);
+  }
+
+  // esp8266.localIP returns an IPAddress variable with the
+  // ESP8266 current local IP address.
+  IPAddress myIP = esp8266.localIP();
+  Serial.print(F("My IP: ")); Serial.println(myIP);
+}
+
+void clientDemo()
+{
+  // To use the ESP8266 as a TCP client, use the 
+  // ESP8266Client class. First, create an object:
+  ESP8266Client client;
+
+  // ESP8266Client connect([server], [port]) is used to 
+  // connect to a server (const char * or IPAddress) on
+  // a specified port.
+  // Returns: 1 on success, 2 on already connected,
+  // negative on fail (-1=TIMEOUT, -3=FAIL).
+  int retVal = client.connect(destServer, 80);
+  if (retVal <= 0)
+  {
+    Serial.println(F("Failed to connect to server."));
+    return;
+  }
+
+  // print and write can be used to send data to a connected
+  // client connection.
+  client.print(httpRequest);
+
+  // available() will return the number of characters
+  // currently in the receive buffer.
+  while (client.available())
+    Serial.write(client.read()); // read() gets the FIFO char
+  
+  // connected() is a boolean return value - 1 if the 
+  // connection is active, 0 if it is closed.
+  if (client.connected())
+    client.stop(); // stop() closes a TCP connection.
+}
+
+void serverSetup()
+{
+  // begin initializes a ESP8266Server object. It will
+  // start a server on the port specified in the object's
+  // constructor (in global area)
+  server.begin();
+  Serial.print(F("Server started! Go to "));
+  Serial.println(esp8266.localIP());
+  Serial.println();
+}
+
+void serverDemo()
+{
+  // available() is an ESP8266Server function which will
+  // return an ESP8266Client object for printing and reading.
+  // available() has one parameter -- a timeout value. This
+  // is the number of milliseconds the function waits,
+  // checking for a connection.
+  ESP8266Client client = server.available(500);
+  
+  if (client) 
+  {
+    Serial.println(F("Client Connected!"));
+    // an http request ends with a blank line
+    boolean currentLineIsBlank = true;
+    while (client.connected()) 
+    {
+      if (client.available()) 
+      {
+        char c = client.read();
+        // if you've gotten to the end of the line (received a newline
+        // character) and the line is blank, the http request has ended,
+        // so you can send a reply
+        if (c == '\n' && currentLineIsBlank) 
+        {
+          Serial.println(F("Sending HTML page"));
+          // send a standard http response header:
+          client.print(htmlHeader);
+          String htmlBody;
+          // output the value of each analog input pin
+          for (int a = 0; a < 6; a++)
+          {
+            htmlBody += "A";
+            htmlBody += String(a);
+            htmlBody += ": ";
+            htmlBody += String(analogRead(a));
+            htmlBody += "<br>\n";
+          }
+          htmlBody += "</html>\n";
+          client.print(htmlBody);
+          break;
+        }
+        if (c == '\n') 
+        {
+          // you are starting a new line
+          currentLineIsBlank = true;
+        }
+        else if (c != '\r') 
+        {
+          // you've gotten a character on the current line
+          currentLineIsBlank = false;
+        }
+      }
+    }
+    // give the web browser time to receive the data
+    delay(1);
+   
+    // close the connection:
+    client.stop();
+    Serial.println(F("Client disconnected"));
+  }
+  
+}
+
+// errorLoop prints an error code, then loops forever.
+void errorLoop(int error)
+{
+  Serial.print(F("Error: ")); Serial.println(error);
+  Serial.println(F("Looping forever."));
+  for (;;)
+    ;
+}
+
+// serialTrigger prints a message, then waits for something
+// to come in from the serial port.
+void serialTrigger(String message)
+{
+  Serial.println();
+  Serial.println(message);
+  Serial.println();
+  while (!Serial.available())
+    ;
+  while (Serial.available())
+    Serial.read();
+}
+```
+
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+
+You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
+
+### Useful Links
+
+Soldering is a great skill to have, and it's super easy to learn. Here's an excellent guide from Adafruit:
+
+- [Adafruit Guide to Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
 
 
 .
