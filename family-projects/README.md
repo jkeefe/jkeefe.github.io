@@ -506,6 +506,36 @@ You'll find all of the sketches within "chapter" folders in that file. The sketc
 
 In the "Taking it Further" section of this chapter, I mention a cool material called Velostat that also has pressure-sensitive qualities. Lean more about [using (and buying) Velostat at Adafruit](https://www.adafruit.com/product/1361).
 
+## Electric Candle
+
+// paste descrpition//
+
+### Ingredients 
+
+In addition to your own computer, here's what you'll need for this chapter.
+
+- 1 Arduino Uno
+- 1 Arduino USB cable 
+- 1 Arduino power supply
+- 1 Breadboard
+- 1 push button 
+- 1 LED
+- 10 jumper wires 
+- Your computer
+
+Most of these ingredients are also found in the Arduino starter kits [I've listed below](#kits).
+
+### Code
+
+```arduino
+
+// paste code
+
+```
+
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads file and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+
+You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
 
 .
