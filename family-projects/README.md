@@ -2,6 +2,19 @@
   
 This is the companion website for the book, "Family Projects for Smart Objects" by [John Keefe](http://johnkeefe.net), due out in Fall 2016 from Maker Media. This is where you'll find links to ingredients for every project in the book, along with the copy-able code you'll need for each project.
   
+  
+# Kits
+
+To make these projects, you'll need a handful of hobby electronics, which are relatively cheap and readily available. You can buy the parts for each project individually, or you can get "starter kits" that have almost all of the parts you'll need for this book. Here are some of the kits, with (TODO) additional notes about chapters where you may need to get some extra parts:
+
+- [Adafruit Experimentation Kit for Arduino ($$)](https://www.adafruit.com/products/170)
+- [Adafruit Starter Pack for Arduino ($$)](https://www.adafruit.com/products/68)
+- [Adafruit Budget Pack for Arduino ($)](https://www.adafruit.com/products/193)
+- [Make: Getting Started with Arduino Kit, Special Edition ($$)](http://www.makershed.com/products/make-getting-started-kit-arduino-uno-r3)
+- [Sparkfun Invetor's Kit for Arduino ($$$$)](https://www.sparkfun.com/products/13844)
+- [SparkFun Inventor's Kit for Arduino - V3.2 ($$$)](https://www.sparkfun.com/products/13154)
+
+
 # Chapters  
 
 ## You Only Have to Do This Once
@@ -17,7 +30,7 @@ You can buy just these parts from Adafruit or Sparkfun using the buttons below.
 
 [Buy from Adafruit >](http://www.adafruit.com/wishlists/403572) [Buy from Sparkfun >](https://www.sparkfun.com/wish_lists/127673)
 
-These ingredients are also found in all of the Arduino starter kits [I've listed below](#kits).
+These ingredients are also found in all of the Arduino starter kits [I've listed](#kits).
 
 ### Installation Links
 
@@ -43,7 +56,7 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 1 Ardunio USB cable 
 - 1 LED
 
-These ingredients are also found in all of the Arduino starter kits [I've listed below](#kits).
+These ingredients are also found in all of the Arduino starter kits [I've listed](#kits).
 
 ### Code
 
@@ -104,7 +117,7 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 1 Photoresistor
 - 1 10K-ohm (10K&#937;) resistor
 
-Most of these ingredients are also found in the Arduino starter kits [I've listed below](#kits).
+Most of these ingredients are also found in the Arduino starter kits [I've listed](#kits).
 
 ### Code
 
@@ -191,7 +204,7 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 2 [Extension jumper wires (male-to-female)](https://www.sparkfun.com/products/9140)
 - 1 Hollow, translucent toy
 
-Except for the Optional Items, these ingredients are also found in the Arduino starter kits [I've listed below](#kits).
+Except for the Optional Items, these ingredients are also found in the Arduino starter kits [I've listed](#kits).
 
 Here's a link to the optional [extension jumper wires on Sparkfun](https://www.sparkfun.com/products/9140).
 
@@ -277,7 +290,7 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 1 10k-ohm (10k&#937;) resistor
 - A glass of ice water
 
-Almost all of the Arduino start-up kits [I've listed below](#kits) include a thermistor. Sometimes they are at the ends of long, wiggly wires; other times they have stiff wires, like an LED. Either one will work here.
+Almost all of the Arduino start-up kits [I've listed](#kits) include a thermistor. Sometimes they are at the ends of long, wiggly wires; other times they have stiff wires, like an LED. Either one will work here.
 
 ### Code
 
@@ -368,7 +381,7 @@ In addition to your own computer, here's what you'll need for this chapter.
 - A piece of tape
 
 All of the items in this project, besides the aluminum foil and tape, 
-should be available in any of the Arduino starter kits [I've listed below](#kits).
+should be available in any of the Arduino starter kits [I've listed](#kits).
 
 ### Code
 
@@ -444,7 +457,7 @@ _Optional part_
 
 - 1 [Arduino power supply](https://www.adafruit.com/products/276)
 
-Most of these ingredients are also found in the Arduino starter kits [I've listed below](#kits). Double check to make sure the kit you select has a pressure sensor. If you need one [here's a little version at Sparkfun](https://www.sparkfun.com/products/9673) and [here's a bigger one at Adafruit](https://www.adafruit.com/products/1075).
+Most of these ingredients are also found in the Arduino starter kits [I've listed](#kits). Double check to make sure the kit you select has a pressure sensor. If you need one [here's a little version at Sparkfun](https://www.sparkfun.com/products/9673) and [here's a bigger one at Adafruit](https://www.adafruit.com/products/1075).
 
 You'll also need a little buzzer, often called a piezo buzzer. If your kit doesn't have one, [you can buy one at Adafruit](https://www.adafruit.com/products/160).
 
@@ -531,7 +544,7 @@ _Optional Items_
 
 - 1 Arduino power supply
 
-Almost all of the ingredients you'll need come in Arduino starter kits [I've listed below](#kits), with a notable exception &#8212; the [wind sensor from Modern Device](https://moderndevice.com/product/wind-sensor/). 
+Almost all of the ingredients you'll need come in Arduino starter kits [I've listed](#kits), with a notable exception &#8212; the [wind sensor from Modern Device](https://moderndevice.com/product/wind-sensor/). 
 
 Assembling the wind sensor requires a small amount of soldering -- which requires a soldering iron and solder. If you don't have these at home, you can get them at a local hardware or hobby store, and of course from an online seller. Here's the Sparkfun links to a [soldering iron](https://www.sparkfun.com/products/9507) (they have many) and also some [lead-free solder](https://www.sparkfun.com/products/9325). 
 
@@ -674,7 +687,7 @@ _Optional parts_
 
 - 1 LED
 
-Almost all of the ingredients you'll need come in Arduino starter kits [I've listed below](#kits), with a notable exception &#8212; the [Parallax Ping sensor](http://www.amazon.com/Parallax-Ultrasonic-Range-Sensor-28015/dp/B004SRTM0K), which you'll need to buy separately. These are common enough that you can sometimes find them in local hobby or electronics stores, too.
+Almost all of the ingredients you'll need come in Arduino starter kits [I've listed](#kits), with a notable exception &#8212; the [Parallax Ping sensor](http://www.amazon.com/Parallax-Ultrasonic-Range-Sensor-28015/dp/B004SRTM0K), which you'll need to buy separately. These are common enough that you can sometimes find them in local hobby or electronics stores, too.
 
 ### Code
 
@@ -1122,19 +1135,376 @@ Soldering is a great skill to have, and it's super easy to learn. Here's an exce
 - [Adafruit Guide to Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
 
 
-.
-.
-.
-.
+## Sense the Internet
 
-# Kits
+There's a ton of information on the Internet &#8212; and some of it is even useful! Now that we got an Arduino on the 'net, this project will use it to get some good data: weather conditions for the place you are now.
 
-To make these projects, you'll need a handful of hobby electronics, which are relatively cheap and readily available. You can buy the parts individually, or you can get "starter kits" that have almost all of the parts you'll need for this book. Here are some of the kits, with (TODO) additional notes about chapters where you may need to get some extra parts:
+### Ingredients 
 
-- [Adafruit Experimentation Kit for Arduino ($$)](https://www.adafruit.com/products/170)
-- [Adafruit Starter Pack for Arduino ($$)](https://www.adafruit.com/products/68)
-- [Adafruit Budget Pack for Arduino ($)](https://www.adafruit.com/products/193)
-- [Make: Getting Started with Arduino Kit, Special Edition ($$)](http://www.makershed.com/products/make-getting-started-kit-arduino-uno-r3)
-- [Sparkfun Invetor's Kit for Arduino ($$$$)](https://www.sparkfun.com/products/13844)
-- [SparkFun Inventor's Kit for Arduino - V3.2 ($$$)](https://www.sparkfun.com/products/13154)
+In addition to your own computer, here's what you'll need for this chapter.
+
+- 1 Arduino
+- 1 Ardunio USB cable 
+- A home wifi network and the password for it
+- A web browser
+
+_Special items_
+
+- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [previous chapter](#chapters-get-your-arduino-online). 
+
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in the [previous chapter](#chapters-get-your-arduino-online).
+
+### Code
+
+The sketch for this project is here:
+
+```arduino
+/************************************************************
+ESP8266_Shield_Demo.h
+SparkFun ESP8266 AT library - Demo
+Jim Lindblom @ SparkFun Electronics
+Original Creation Date: July 16, 2015
+https://github.com/sparkfun/SparkFun_ESP8266_AT_Arduino_Library
+
+This example demonstrates the basics of the SparkFun ESP8266
+AT library. It'll show you how to connect to a WiFi network,
+get an IP address, connect over TCP to a server (as a client),
+and set up a TCP server of our own.
+
+Development environment specifics:
+  IDE: Arduino 1.6.5
+  Hardware Platform: Arduino Uno
+  ESP8266 WiFi Shield Version: 1.0
+
+This code is released under the MIT license.
+
+Distributed as-is; no warranty is given.
+
+Modified for use with OpenWeatherMap
+by John Keefe, May 2016
+************************************************************/
+
+//////////////////////
+// Library Includes //
+//////////////////////
+// SoftwareSerial is required (even you don't intend on
+// using it).
+#include <SoftwareSerial.h> 
+#include <SparkFunESP8266WiFi.h>
+
+//////////////////////////////
+// WiFi Network Definitions //
+//////////////////////////////
+const char mySSID[] = "YourWifiNetworkNameGoesHere";
+const char myPSK[] = "YourWifiPasswordGoesHere";
+
+///////////////////////
+// Weather Variables //
+///////////////////////
+const String apikey = "YourAPIKeyGoesHere";
+const String latitude = "YourLatitudeGoesHere";
+const String longitude = "YourLongitudeGoesHere";
+
+
+//////////////////
+// HTTP Strings //
+//////////////////
+const char destServer[] = "api.openweathermap.org";
+String httpRequest = "GET /data/2.5/weather?lat=" + latitude + 
+                           "&lon=" + longitude + "&APPID=" + apikey + " HTTP/1.1\n" +
+                           "Host: api.openweathermap.org\n" +
+                           "Connection: close\n\n";
+   
+// All functions called from setup() are defined below the
+// loop() function. They modularized to make it easier to
+// copy/paste into sketches of your own.
+void setup() 
+{
+  // Serial Monitor is used to control the demo and view
+  // debug information.
+  Serial.begin(9600);
+  serialTrigger(F("Press the Enter key to begin."));
+
+  // initializeESP8266() verifies communication with the WiFi
+  // shield, and sets it up.
+  initializeESP8266();
+
+  // connectESP8266() connects to the defined WiFi network.
+  connectESP8266();
+
+  // displayConnectInfo prints the Shield's local IP
+  // and the network it's connected to.
+  displayConnectInfo();
+
+  clientDemo();
+  
+}
+
+void loop() 
+{
+  // nothing here
+}
+
+void initializeESP8266()
+{
+  // esp8266.begin() verifies that the ESP8266 is operational
+  // and sets it up for the rest of the sketch.
+  // It returns either true or false -- indicating whether
+  // communication was successul or not.
+  // true
+  int test = esp8266.begin();
+  if (test != true)
+  {
+    Serial.println(F("Error talking to ESP8266."));
+    errorLoop(test);
+  }
+  Serial.println(F("ESP8266 Shield Present"));
+}
+
+void connectESP8266()
+{
+  // The ESP8266 can be set to one of three modes:
+  //  1 - ESP8266_MODE_STA - Station only
+  //  2 - ESP8266_MODE_AP - Access point only
+  //  3 - ESP8266_MODE_STAAP - Station/AP combo
+  // Use esp8266.getMode() to check which mode it's in:
+  int retVal = esp8266.getMode();
+  if (retVal != ESP8266_MODE_STA)
+  { // If it's not in station mode.
+    // Use esp8266.setMode([mode]) to set it to a specified
+    // mode.
+    retVal = esp8266.setMode(ESP8266_MODE_STA);
+    if (retVal < 0)
+    {
+      Serial.println(F("Error setting mode."));
+      errorLoop(retVal);
+    }
+  }
+  Serial.println(F("Mode set to station"));
+
+  // esp8266.status() indicates the ESP8266's WiFi connect
+  // status.
+  // A return value of 1 indicates the device is already
+  // connected. 0 indicates disconnected. (Negative values
+  // equate to communication errors.)
+  retVal = esp8266.status();
+  if (retVal <= 0)
+  {
+    Serial.print(F("Connecting to "));
+    Serial.println(mySSID);
+    // esp8266.connect([ssid], [psk]) connects the ESP8266
+    // to a network.
+    // On success the connect function returns a value >0
+    // On fail, the function will either return:
+    //  -1: TIMEOUT - The library has a set 30s timeout
+    //  -3: FAIL - Couldn't connect to network.
+    retVal = esp8266.connect(mySSID, myPSK);
+    if (retVal < 0)
+    {
+      Serial.println(F("Error connecting"));
+      errorLoop(retVal);
+    }
+  }
+}
+
+void displayConnectInfo()
+{
+  char connectedSSID[24];
+  memset(connectedSSID, 0, 24);
+  // esp8266.getAP() can be used to check which AP the
+  // ESP8266 is connected to. It returns an error code.
+  // The connected AP is returned by reference as a parameter.
+  int retVal = esp8266.getAP(connectedSSID);
+  if (retVal > 0)
+  {
+    Serial.print(F("Connected to: "));
+    Serial.println(connectedSSID);
+  }
+
+  // esp8266.localIP returns an IPAddress variable with the
+  // ESP8266's current local IP address.
+  IPAddress myIP = esp8266.localIP();
+  Serial.print(F("My IP: ")); Serial.println(myIP);
+}
+
+void clientDemo()
+{
+  // To use the ESP8266 as a TCP client, use the 
+  // ESP8266Client class. First, create an object:
+  ESP8266Client client;
+
+  // ESP8266Client connect([server], [port]) is used to 
+  // connect to a server (const char * or IPAddress) on
+  // a specified port.
+  // Returns: 1 on success, 2 on already connected,
+  // negative on fail (-1=TIMEOUT, -3=FAIL).
+  int retVal = client.connect(destServer, 80);
+  if (retVal <= 0)
+  {
+    Serial.println(F("Failed to connect to server."));
+    return;
+  }
+
+  // print and write can be used to send data to a connected
+  // client connection.
+  client.print(httpRequest);
+
+  // available() will return the number of characters
+  // currently in the receive buffer.
+  while (client.available())
+    Serial.write(client.read()); // read() gets the FIFO char
+  
+  // connected() is a boolean return value - 1 if the 
+  // connection is active, 0 if it's closed.
+  if (client.connected())
+    client.stop(); // stop() closes a TCP connection.
+}
+
+
+// errorLoop prints an error code, then loops forever.
+void errorLoop(int error)
+{
+  Serial.print(F("Error: ")); Serial.println(error);
+  Serial.println(F("Looping forever."));
+  for (;;)
+    ;
+}
+
+// serialTrigger prints a message, then waits for something
+// to come in from the serial port.
+void serialTrigger(String message)
+{
+  Serial.println();
+  Serial.println(message);
+  Serial.println();
+  while (!Serial.available())
+    ;
+  while (Serial.available())
+    Serial.read();
+}
+```
+
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+
+You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
+
+### Useful links
+
+Here are some of the links mentioned in this chapter, for easy reference:
+
+- [OpenWeatherMap](http://openweathermap.org/) -- where we get the weather data.
+- [Get an OpenWeatherMap Key](http://openweathermap.org/appid) -- the place to get your free API key.
+- [LatLong.net](http://http://www.latlong.net/) -- to get the latitude and longitude where you are.
+- [OpenWeatherMap's Current Conditions API](http://openweathermap.org/current) -- more details on the data we're getting.
+
+
+## Do I Need an Umbrella Today?
+
+The answer could be as simple as looking at your Arduino. In this chapter, we'll go beyond asking about the current weather &#8212; we'll get an Arduino to ask for a weather _forecast_ and use that information to determine whether you'll need an umbrella.
+
+### Ingredients 
+
+In addition to your own computer, here's what you'll need for this chapter.
+
+- 1 Arduino
+- 1 Ardunio USB cable 
+- 1 LED
+- A home wifi network and the password for it
+
+_Special items_
+
+- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [previous chapter](#chapters-get-your-arduino-online). 
+
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in the [previous chapter](#chapters-get-your-arduino-online).
+
+### Code
+
+```arduino
+
+// Code goes here
+
+```
+
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+
+You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
+
+
+## Morning Weatherball
+
+// paste descrpition//
+
+### Ingredients 
+
+In addition to your own computer, here's what you'll need for this chapter.
+
+- 1 Arduino Uno
+- 1 Ardunio USB cable 
+- 1 Arduino power supply
+- 1 Breadboard
+- 1 [RGB (red-green-blue) LED](http://shop.evilmadscientist.com/productsmenu/partsmenu/330)
+- A home wifi network and the password for it
+- A web browser
+
+_Special items_
+
+- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [previous chapter](#chapters-get-your-arduino-online). 
+
+_Optional_
+
+- 1 White ping-pong ball (or other translucent toy ball).
+
+You can get ping-pong balls at sports stores, department stores or [online](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=ping+pong+balls). 
+
+RGB LEDs are cheap and easy to use. Some of the [Arduino starter kits I've listed](#kits) have them, but not all. RGB LEDs are notable because they have four legs &#8212; one for each of the three LEDs inside and a "common" leg they all share. If you need one (or more), try [here]http://shop.evilmadscientist.com/productsmenu/partsmenu/330 or [here](https://www.sparkfun.com/products/9264).
+
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in the [previous chapter](#chapters-get-your-arduino-online).
+
+The optional power supply allows you to untether your Arduino from your computer and keep it running. Arduinos get their power either from the USB port or from the round "barrel" jack next to the Arduino's USB outlet. If you kit doesn't come with a separate power supply, you can buy [one that fits the barrel jack](https://www.adafruit.com/products/276) or [this nifty version](https://www.adafruit.com/products/501) that uses your Arduino's USB cable instead.
+
+
+### Code
+
+```arduino
+
+// paste code
+
+```
+
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+
+You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
+
+
+
+## Send Email with a Button
+
+// paste descrpition//
+
+### Ingredients 
+
+In addition to your own computer, here's what you'll need for this chapter.
+
+- 1 Arduino Uno
+- 1 Arduino USB cable 
+- 1 Arduino power supply
+- 1 Breadboard
+- Push button
+- A home wifi network and the password for it
+- A web browser
+- An email address
+
+Most of these ingredients are also found in the Arduino starter kits [I've listed](#kits).
+
+### Code
+
+```arduino
+
+// paste code
+
+```
+
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+
+You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
