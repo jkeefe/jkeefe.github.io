@@ -262,6 +262,98 @@ Every sketch used in "Family Projects for Smart Objects" is also available as a 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
+## Ice, Ice Binkly
+
+This project makes an LED react to cold water.
+
+### Ingredients 
+
+In addition to your own computer, here's what you'll need for this chapter.
+
+- 1 Arduino Uno
+- 1 Arduino USB cable 
+- 1 Breadboard
+- 1 thermistor
+- 1 10k-ohm (10k&#937;) resistor
+- A glass of ice water
+
+Almost all of the Arduino start-up kits [I've listed below](#kits) include a thermistor. Sometimes they are at the ends of long, wiggly wires; other times they have stiff wires, like an LED. Either one will work here.
+
+### Code
+
+This project uses the example code that comes with the Arduino software. So with the Arduino software 
+running, go to: _File_ &#8594; _Examples_ &#8594; _03.Analog_ &#8594; _AnalogInput_.
+
+You can use the code below, too, which is slight modified for the "Taking it Futher" part of the chapter -- where we add the ability to watch the sensor readings with the Serial Monitor.
+
+```arduino
+/*
+  Analog Input
+ Demonstrates analog input by reading an analog sensor on analog pin 0 and
+ turning on and off a light emitting diode(LED)  connected to digital pin 13.
+ The amount of time the LED will be on and off depends on
+ the value obtained by analogRead().
+
+ The circuit:
+ * Potentiometer attached to analog input 0
+ * center pin of the potentiometer to the analog pin
+ * one side pin (either one) to ground
+ * the other side pin to +5V
+ * LED anode (long leg) attached to digital output 13
+ * LED cathode (short leg) attached to ground
+
+ * Note: because most Arduinos have a built-in LED attached
+ to pin 13 on the board, the LED is optional.
+
+
+ Created by David Cuartielles
+ modified 30 Aug 2011
+ By Tom Igoe
+
+ This example code is in the public domain.
+
+ http://www.arduino.cc/en/Tutorial/AnalogInput
+
+ Further Modified by John Keefe May 2016
+ to add Serial Monitoring
+ 
+ */
+
+int sensorPin = A0;    // select the input pin for the potentiometer
+int ledPin = 13;      // select the pin for the LED
+int sensorValue = 0;  // variable to store the value coming from the sensor
+
+void setup() {
+  // declare the ledPin as an OUTPUT:
+  pinMode(ledPin, OUTPUT);
+  Serial.begin(9600);  // < - - Added this line
+}
+
+void loop() {
+  // read the value from the sensor:
+  sensorValue = analogRead(sensorPin);
+  // turn the ledPin on
+  digitalWrite(ledPin, HIGH);
+  // stop the program for <sensorValue> milliseconds:
+  delay(sensorValue);
+  // turn the ledPin off:
+  digitalWrite(ledPin, LOW);
+  Serial.println(sensorValue); // < - - New line is here
+  // stop the program for for <sensorValue> milliseconds:
+  delay(sensorValue);  
+}
+```
+
+Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads file and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+
+You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
+
+
+
+.
+.
+.
+.
 
 # Kits
 
