@@ -96,7 +96,7 @@ void loop() {
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -178,7 +178,7 @@ void loop() {
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -193,7 +193,6 @@ In addition to your own computer, here's what you'll need for this chapter.
 
 - 1 Arduino
 - 1 Arduino USB cable 
-- 1 Arduino power supply
 - 1 Breadboard
 - 1 photoresistor
 - 1 LED (white, if you have one)
@@ -203,8 +202,11 @@ In addition to your own computer, here's what you'll need for this chapter.
 
 - 2 [Extension jumper wires (male-to-female)](https://www.sparkfun.com/products/9140)
 - 1 Hollow, translucent toy
+- 1 Arduino power supply
 
 Except for the Optional Items, these ingredients are also found in the Arduino starter kits [I've listed](#kits).
+
+The optional power supply allows you to untether your Arduino from your computer -- and let it run on its own. Arduinos get their power either from the USB port or from the round "barrel" jack next to the Arduino's USB outlet. If you kit doesn't come with a separate power supply, you can buy [one that fits the barrel jack](https://www.adafruit.com/products/276) or [this nifty version](https://www.adafruit.com/products/501) that uses your Arduino's USB cable instead.
 
 Here's a link to the optional [extension jumper wires on Sparkfun](https://www.sparkfun.com/products/9140).
 
@@ -271,7 +273,7 @@ void loop() {
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -286,7 +288,7 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 1 Arduino Uno
 - 1 Arduino USB cable 
 - 1 Breadboard
-- 1 thermistor
+- 1 Thermistor
 - 1 10k-ohm (10k&#937;) resistor
 - A glass of ice water
 
@@ -357,7 +359,7 @@ void loop() {
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -422,7 +424,7 @@ void loop()
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -511,7 +513,7 @@ void loop() {
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -652,7 +654,7 @@ void lightCandle() {
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -767,7 +769,7 @@ long microsecondsToCentimeters(long microseconds)
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -1124,7 +1126,7 @@ void serialTrigger(String message)
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -1384,7 +1386,7 @@ void serialTrigger(String message)
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
@@ -1425,14 +1427,14 @@ This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/p
 
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
 
 ## Morning Weatherball
 
-// paste descrpition//
+I'm fond of peaceful, quiet "ambient" objects -- things that convey details by gently changing my surroundings. This project takes the "Do I Need An Umbrella Today?" idea one step further by making a weather ball that conveys even more information, and with even less interaction. 
 
 ### Ingredients 
 
@@ -1458,7 +1460,7 @@ You can get ping-pong balls at sports stores, department stores or [online](http
 
 RGB LEDs are cheap and easy to use. Some of the [Arduino starter kits I've listed](#kits) have them, but not all. RGB LEDs are notable because they have four legs &#8212; one for each of the three LEDs inside and a "common" leg they all share. If you need one (or more), try [here]http://shop.evilmadscientist.com/productsmenu/partsmenu/330 or [here](https://www.sparkfun.com/products/9264).
 
-This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in the [previous chapter](#chapters-get-your-arduino-online).
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in a [previous chapter](#chapters-get-your-arduino-online).
 
 The optional power supply allows you to untether your Arduino from your computer and keep it running. Arduinos get their power either from the USB port or from the round "barrel" jack next to the Arduino's USB outlet. If you kit doesn't come with a separate power supply, you can buy [one that fits the barrel jack](https://www.adafruit.com/products/276) or [this nifty version](https://www.adafruit.com/products/501) that uses your Arduino's USB cable instead.
 
@@ -1471,15 +1473,14 @@ The optional power supply allows you to untether your Arduino from your computer
 
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
 
-
 ## Send Email with a Button
 
-// paste descrpition//
+If making a computer say "Hello, world" is the first step of programming, and making an LED blink is the "Hello, world" of do-it-yourself smart objects, it's quite possible that making an "Internet Button" is the "Hello, world" of "Internet of Things" things. In this project, we make a button that send an email.
 
 ### Ingredients 
 
@@ -1494,7 +1495,58 @@ In addition to your own computer, here's what you'll need for this chapter.
 - A web browser
 - An email address
 
-Most of these ingredients are also found in the Arduino starter kits [I've listed](#kits).
+_Special items_
+
+- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [previous chapter](#chapters-get-your-arduino-online). 
+
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in a [previous chapter](#chapters-get-your-arduino-online).
+
+
+### Code
+
+```arduino
+
+// paste code
+
+```
+
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+
+You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
+
+### Useful Links
+
+This project uses the [IFTTT website](http://ifttt.com) to turn our button-press into an email. Here are some useful links:
+
+- [IFTTT home page](http://ifttt.com)
+- [IFTTT sign up page](https://ifttt.com/join)
+- [Maker channel on IFTTT](https://ifttt.com/maker)
+
+
+## Online Temperature Tracker
+
+Arduinos are excellent at logging their observations. With this project, we get Arduino logging environmental data online.
+
+### Ingredients 
+
+In addition to your own computer, here's what you'll need for this chapter.
+
+- 1 Arduino
+- 1 Ardunio USB cable 
+- 1 Arduino power supply
+- 1 Breadboard
+- A home wifi network and the password for it
+- A web browser
+
+*Special items*
+
+- Your assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287)
+- 1 [Thermistor](https://www.adafruit.com/products/372)
+- 1 10K Resistor
+
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in a [previous chapter](#chapters-get-your-arduino-online).
+
+A thermistor can be found in most of the Arduino starter kits [I've listed below](#kits). If you don't have one, you can get them [online](https://www.adafruit.com/products/372). 
 
 ### Code
 
@@ -1507,4 +1559,11 @@ Most of these ingredients are also found in the Arduino starter kits [I've liste
 Every sketch used in "Family Projects for Smart Objects" is also available as a zipped-up file [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
+
+### Useful Links
+
+We post our code to a free data-gathering website made by Sparkfun, and also export it to another website called. [Analog.io](http://analog.io). Here are the key links:
+
+- [data.sparkfun.com](http://data.sparkfun.com)
+- [Analog.io sign up page](http://analog.io/users/sign_up)
 
