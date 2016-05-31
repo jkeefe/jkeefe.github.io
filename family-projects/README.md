@@ -1432,52 +1432,6 @@ Every sketch used in "Family Projects for Smart Objects" is also available in a 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
 
-## Morning Weatherball
-
-I'm fond of peaceful, quiet "ambient" objects -- things that convey details by gently changing my surroundings. This project takes the "Do I Need An Umbrella Today?" idea one step further by making a weather ball that conveys even more information, and with even less interaction. 
-
-### Ingredients 
-
-In addition to your own computer, here's what you'll need for this chapter.
-
-- 1 Arduino Uno
-- 1 Ardunio USB cable 
-- 1 Arduino power supply
-- 1 Breadboard
-- 1 [RGB (red-green-blue) LED](http://shop.evilmadscientist.com/productsmenu/partsmenu/330)
-- A home wifi network and the password for it
-- A web browser
-
-_Special items_
-
-- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [previous chapter](#chapters-get-your-arduino-online). 
-
-_Optional_
-
-- 1 White ping-pong ball (or other translucent toy ball).
-
-You can get ping-pong balls at sports stores, department stores or [online](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=ping+pong+balls). 
-
-RGB LEDs are cheap and easy to use. Some of the [Arduino starter kits I've listed](#kits) have them, but not all. RGB LEDs are notable because they have four legs &#8212; one for each of the three LEDs inside and a "common" leg they all share. If you need one (or more), try [here]http://shop.evilmadscientist.com/productsmenu/partsmenu/330 or [here](https://www.sparkfun.com/products/9264).
-
-This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in a [previous chapter](#chapters-get-your-arduino-online).
-
-The optional power supply allows you to untether your Arduino from your computer and keep it running. Arduinos get their power either from the USB port or from the round "barrel" jack next to the Arduino's USB outlet. If you kit doesn't come with a separate power supply, you can buy [one that fits the barrel jack](https://www.adafruit.com/products/276) or [this nifty version](https://www.adafruit.com/products/501) that uses your Arduino's USB cable instead.
-
-
-### Code
-
-```arduino
-
-// paste code
-
-```
-
-Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
-
-You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
-
-
 ## Send Email with a Button
 
 If making a computer say "Hello, world" is the first step of programming, and making an LED blink is the "Hello, world" of do-it-yourself smart objects, it's quite possible that making an "Internet Button" is the "Hello, world" of "Internet of Things" things. In this project, we make a button that send an email.
