@@ -100,10 +100,10 @@ Every sketch used in "Family Projects for Smart Objects" is also available in a 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
-## A Darkness-Happy Light
+## A Dark-Detecting Light
 
-For this project, we make an LED flash fast and happy when the room is 
-dark, and slow and soothing when the room is in daylight.
+For this project, we make an LED flash fast and urgently when the room is 
+dark, and slow and calm when the room is bright.
 
 ### Ingredients
 
