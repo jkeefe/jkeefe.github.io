@@ -299,7 +299,7 @@ Almost all of the Arduino start-up kits [I've listed](#kits) include a thermisto
 This project uses the example code that comes with the Arduino software. So with the Arduino software 
 running, go to: _File_ &#8594; _Examples_ &#8594; _03.Analog_ &#8594; _AnalogInput_.
 
-You can use the code below, too, which is slight modified for the "Taking it Futher" part of the chapter -- where we add the ability to watch the sensor readings with the Serial Monitor.
+You can use the code below, too, which is slight modified for to amplify the sensor readings and make the changes in LED flashes more noticable.
 
 ```arduino
 /*
@@ -329,8 +329,8 @@ You can use the code below, too, which is slight modified for the "Taking it Fut
 
  http://www.arduino.cc/en/Tutorial/AnalogInput
 
- Further Modified by John Keefe May 2016
- to add Serial Monitoring
+ Further Modified by John Keefe 
+ May 2016
  
  */
 
@@ -341,21 +341,73 @@ int sensorValue = 0;  // variable to store the value coming from the sensor
 void setup() {
   // declare the ledPin as an OUTPUT:
   pinMode(ledPin, OUTPUT);
-  Serial.begin(9600);  // < - - Added this line
 }
 
 void loop() {
   // read the value from the sensor:
-  sensorValue = analogRead(sensorPin);
+  sensorValue = analogRead(sensorPin) *3 ;
   // turn the ledPin on
   digitalWrite(ledPin, HIGH);
   // stop the program for <sensorValue> milliseconds:
   delay(sensorValue);
   // turn the ledPin off:
   digitalWrite(ledPin, LOW);
-  Serial.println(sensorValue); // < - - New line is here
   // stop the program for for <sensorValue> milliseconds:
   delay(sensorValue);  
+}
+```
+
+In the "Taking it Further" section of this chapter, I also provide a simple way to see the _actual_ temperature being read by the sensor. Here's the code for that, which I've called `temp_readings.ino`.
+
+```arduino
+/*
+ * Get readings from a simple TMP36 Thermistor
+ * 
+ * With flat side facing you, connect the legs to the Arduino like this:
+ * - Leftmost leg to Arduino's 5V
+ * - Middle leg to Arduino's A0
+ * - Rightmost leg to Arduino GND
+ * 
+ * By John Keefe
+ * johnkeefe.net
+ * June 2016
+ * 
+ * This code is in the public domain
+ */
+
+#define SENSORPIN 0
+
+float sensor_value;
+float voltage;
+float tempC;
+float tempF;
+
+void setup() {
+  // Start the Serial Monitor stream
+  Serial.begin(9600);
+  pinMode(13, OUTPUT);
+}
+
+void loop() {
+  sensor_value = analogRead(SENSORPIN);
+  Serial.print("Sensor Value: ");
+  Serial.println(sensor_value);
+  
+  voltage = sensor_value * 5000 / 1024;
+  Serial.print("Voltage (millivolts): ");
+  Serial.println(voltage);
+  
+  tempC = (voltage-500) / 10;
+  Serial.print("Degrees Celsius: ");
+  Serial.println(tempC);
+
+  tempF = (tempC * 9/5) + 32;
+  Serial.print("Degrees Fahrenheit: ");
+  Serial.println(tempF);
+  Serial.println();
+  
+  delay(5000);
+
 }
 ```
 
@@ -1634,7 +1686,7 @@ void loop()
   Serial.println(voltage);
   
   temp = (voltage-500) / 10;
-  Serial.print(F("Degrees Celcius: "));
+  Serial.print(F("Degrees Celsius: "));
   Serial.println(temp);
 
   postToPhant(temp);
