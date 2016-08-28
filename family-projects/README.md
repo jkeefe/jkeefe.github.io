@@ -654,6 +654,7 @@ The optional power supply allows you to untether your Arduino from your computer
  Paul Badger 2014
  Original at https://github.com/moderndevice/Wind_Sensor
  Licensed for use on official Modern Device hardware
+ Reproduced with the permission of Paul Badger
  
  Revised by John Keefe 2016
  
