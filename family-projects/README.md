@@ -61,7 +61,7 @@ These ingredients are also found in all of the Arduino starter kits [I've listed
 
 The code for this project actually comes with the Arduino software. The easiest way to use it is to open your Arduino software and navigate to the "Blink" sketch, starting at the menu bar and choosing _File_ &#8594; _Examples_ &#8594; _01.Basics_ &#8594; _Blink_.
 
-You can also copy it from here:
+You can also copy it from here: <button class="btn" data-clipboard-action="copy" data-clipboard-target="#id-0">Copy</button>
 
 ```arduino
 /*
