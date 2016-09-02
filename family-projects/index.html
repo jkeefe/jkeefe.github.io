@@ -43,18 +43,7 @@
     });
   </script>
   
-  <!-- Add a unique index to all of the code blocks -->
-  <script>
-  
-  $( document ).ready(function() {
-    $('.content pre > code').each(function(idx) {
-    console.log($(this));
-    $(this).attr('id', 'id-' + idx);
-    });
-  });
-  
-  </script>
-  
+
 </head>
 <body role='flatdoc' class='big-h3 no-literate large-brief'>
 
@@ -67,6 +56,14 @@
   clipboard.on('error', function(e) {
       console.log(e);
   });
+  
+  $( document ).ready(function() {
+    $('.content pre > code').each(function(idx) {
+    console.log($(this));
+    $(this).attr('id', 'id-' + idx);
+    });
+  });
+  
   </script>
 
   <div class='content-root'>
