@@ -40,6 +40,12 @@
   <script>
     Flatdoc.run({
       fetcher: Flatdoc.file('README.md')
+    }, function(){
+      console.log("got here");
+      $('.lang-arduino').each(function(idx) {
+      console.log($(this));
+      $(this).attr('id', 'id-' + idx);
+      });
     });
   </script>
   
@@ -57,13 +63,6 @@
       console.log(e);
   });
   
-  $( document ).ready(function() {
-    console.log("got here");
-    $('code.lang-arduino').each(function(idx) {
-    console.log($(this));
-    $(this).attr('id', 'id-' + idx);
-    });
-  });
   
   </script>
 
