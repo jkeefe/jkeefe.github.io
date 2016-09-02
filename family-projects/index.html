@@ -64,4 +64,13 @@
   </div>
 
 </body>
+
+<!-- Add a unique index to all of the code blocks -->
+<script>
+  $('code').each(function(idx) {
+  console.log($(this));
+  $(this).attr('id', 'id-' + idx);
+  });
+</script>
+
 </html>
