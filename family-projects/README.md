@@ -63,7 +63,6 @@ The code for this project actually comes with the Arduino software. The easiest 
 
 You can also copy it from here:
 
-<div id="foo">
 ```arduino
 /*
   Blink
@@ -95,7 +94,6 @@ void loop() {
   delay(1000);              // wait for a second
 }
 ```
-</div>
 
 Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
