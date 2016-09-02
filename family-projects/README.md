@@ -61,7 +61,36 @@ These ingredients are also found in all of the Arduino starter kits [I've listed
 
 The code for this project actually comes with the Arduino software. The easiest way to use it is to open your Arduino software and navigate to the "Blink" sketch, starting at the menu bar and chosing _File_ &#8594; _Examples_ &#8594; _01.Basics_ &#8594; _Blink_.
 
-You can also copy it from here: <button class="btn" data-clipboard-text="copied text">Copy</button>
+You can also copy it from here: <button class="btn" data-clipboard-text="
+/*
+  Blink
+  Turns on an LED on for one second, then off for one second, repeatedly.
+
+  Most Arduinos have an on-board LED you can control. On the Uno and
+  Leonardo, it is attached to digital pin 13. If you are unsure what
+  pin the on-board LED is connected to on your Arduino model, check
+  the documentation at http://www.arduino.cc
+
+  This example code is in the public domain.
+
+  modified 8 May 2014
+  by Scott Fitzgerald
+ */
+
+
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin 13 as an output.
+  pinMode(13, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(13, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);              // wait for a second
+  digitalWrite(13, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);              // wait for a second
+}">Copy</button>
 
 ```arduino
 /*
