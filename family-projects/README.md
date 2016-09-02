@@ -1,8 +1,6 @@
 # Family Projects for Smart Objects
   
-This is the companion website for the book, [_Family Projects for Smart Objects: Tabletop Projects That Respond to Your World_](https://www.amazon.com/dp/1680451235) by [John Keefe](http://johnkeefe.net). 
-
-Here you'll find code you can copy and links to ingredients for every project in the book.
+This is the companion website for [_Family Projects for Smart Objects: Tabletop Projects That Respond to Your World_](https://www.amazon.com/dp/1680451235) by [John Keefe](http://johnkeefe.net). Here you'll find code you can copy and links to ingredients for every project in the book.
   
 # Kits
 
