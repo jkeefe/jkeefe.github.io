@@ -41,11 +41,7 @@
     Flatdoc.run({
       fetcher: Flatdoc.file('README.md')
     }, function(){
-      console.log("got here");
-      $('.lang-arduino').each(function(idx) {
-      console.log($(this));
-      $(this).attr('id', 'id-' + idx);
-      });
+      
     });
   </script>
   
@@ -62,7 +58,6 @@
   clipboard.on('error', function(e) {
       console.log(e);
   });
-  
   
   </script>
 
