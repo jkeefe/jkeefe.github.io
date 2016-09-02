@@ -58,7 +58,8 @@
   });
   
   $( document ).ready(function() {
-    $('.lang-arduino').each(function(idx) {
+    console.log("got here");
+    $('code.lang-arduino').each(function(idx) {
     console.log($(this));
     $(this).attr('id', 'id-' + idx);
     });
