@@ -1730,13 +1730,13 @@ June 2016
 //////////////////////////////
 // WiFi Network Definitions //
 //////////////////////////////
-// const char mySSID[] = "YourWifiNetworkNameGoesHere";
-// const char myPSK[] = "YourWifiPasswordGoesHere";
+const char mySSID[] = "YourWifiNetworkNameGoesHere";
+const char myPSK[] = "YourWifiPasswordGoesHere";
 
 ////////////////////
 // IFTTT Variable //
 ////////////////////
-//const String maker_key = "YourMakerKeyGoesHere";
+const String maker_key = "YourMakerKeyGoesHere";
 
 /////////////////////////////////
 // Other Constants & Variables //
@@ -2041,15 +2041,15 @@ June 2016
 //////////////////////////////
 // WiFi Network Definitions //
 //////////////////////////////
-// const char mySSID[] = "YourWifiNetworkNameGoesHere";
-// const char myPSK[] = "YourWifiPasswordGoesHere";
+const char mySSID[] = "YourWifiNetworkNameGoesHere";
+const char myPSK[] = "YourWifiPasswordGoesHere";
 
 
 ////////////////////////
 // Sparkfun Data Keys //
 ////////////////////////
-// const String publicKey = "YourPublicKeyHere";
-// const String privateKey = "YourPrivateKeyHere";
+const String publicKey = "YourPublicKeyHere";
+const String privateKey = "YourPrivateKeyHere";
 
 
 // Phant detsination server:
