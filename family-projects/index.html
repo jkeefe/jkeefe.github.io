@@ -29,6 +29,9 @@
   <link  href='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/theme-white/style.css' rel='stylesheet'>
   <script src='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/theme-white/script.js'></script>
 
+  <!-- Copy-to-clipboard -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.12/clipboard.min.js"></script>
+
   <!-- Meta -->
   <meta content="Your Project" property="og:title">
   <meta content="Your Project description goes here." name="description">
@@ -41,6 +44,17 @@
   </script>
 </head>
 <body role='flatdoc' class='big-h3 no-literate large-brief'>
+
+  <!-- 3. Instantiate clipboard by passing a string selector -->
+  <script>
+  var clipboard = new Clipboard('.btn');
+  clipboard.on('success', function(e) {
+      console.log(e);
+  });
+  clipboard.on('error', function(e) {
+      console.log(e);
+  });
+  </script>
 
   <div class='content-root'>
     <div class='menubar'>
