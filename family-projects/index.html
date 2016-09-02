@@ -42,6 +42,19 @@
       fetcher: Flatdoc.file('README.md')
     });
   </script>
+  
+  <!-- Add a unique index to all of the code blocks -->
+  <script>
+  
+  $( document ).ready(function() {
+    $('.lang-arduino').each(function(idx) {
+    console.log($(this));
+    $(this).attr('id', 'id-' + idx);
+    });
+  });
+  
+  </script>
+  
 </head>
 <body role='flatdoc' class='big-h3 no-literate large-brief'>
 
@@ -64,13 +77,4 @@
   </div>
 
 </body>
-
-<!-- Add a unique index to all of the code blocks -->
-<script>
-  $('.lang-arduino').each(function(idx) {
-  console.log($(this));
-  $(this).attr('id', 'id-' + idx);
-  });
-</script>
-
 </html>
