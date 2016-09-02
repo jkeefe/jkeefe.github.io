@@ -47,7 +47,7 @@
   <script>
   
   $( document ).ready(function() {
-    $('.lang-arduino').each(function(idx) {
+    $('.content pre > code').each(function(idx) {
     console.log($(this));
     $(this).attr('id', 'id-' + idx);
     });
