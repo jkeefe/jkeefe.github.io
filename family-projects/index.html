@@ -56,7 +56,7 @@
     border-radius: 20px;
     margin-right: 15px;
   }
-  .btn, .button:visited {
+  .btn {
     background: #2badad;
     color: #fff;
     text-shadow: none;
@@ -70,6 +70,12 @@
   
   <!-- Initializer -->
   <script>
+    // this function assigns unique ids to all code
+    // blocks after Flatdoc loads and formats the page.
+    // This is so I can use "Copy to Clipboard"
+    // buttons specific to each code block.
+    // The buttons, and the call to this function, are in the
+    // README.md as raw html.
     function newIDs(){
       console.log("got here");
       $('.lang-arduino').each(function(idx) {
@@ -87,7 +93,7 @@
 </head>
 <body role='flatdoc' class='big-h3 no-literate large-brief'>
 
-  <!-- 3. Instantiate clipboard by passing a string selector -->
+  <!-- Instantiate clipboard by passing a string selector -->
   <script>
   var clipboard = new Clipboard('.btn');
   clipboard.on('success', function(e) {

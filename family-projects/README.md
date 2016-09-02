@@ -653,6 +653,8 @@ The optional power supply allows you to untether your Arduino from your computer
 
 ### Code
 
+Here's the code for this project.
+
 <button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-7">Copy Code to Clipboard</button>
 
 ```arduino
@@ -1266,6 +1268,8 @@ This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/p
 
 ### Code
 
+Here's the code for this chapter.
+
 <button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-10">Copy Code to Clipboard</button>
 
 ```arduino
@@ -1660,6 +1664,8 @@ This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/p
 
 ### Code
 
+Here's the code for this chapter.
+
 <button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-11">Copy Code to Clipboard</button>
 
 ```arduino
@@ -1981,6 +1987,8 @@ This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/p
 A thermistor can be found in most of the Arduino starter kits [I've listed below](#kits). If you don't have one, you can get them [online](https://www.adafruit.com/products/372). 
 
 ### Code
+
+Here's the code for this chapter.
 
 <button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-12">Copy Code to Clipboard</button>
 
