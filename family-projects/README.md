@@ -61,7 +61,9 @@ These ingredients are also found in all of the Arduino starter kits [I've listed
 
 The code for this project actually comes with the Arduino software. The easiest way to use it is to open your Arduino software and navigate to the "Blink" sketch, starting at the menu bar and choosing _File_ &#8594; _Examples_ &#8594; _01.Basics_ &#8594; _Blink_.
 
-You can also copy it from here: <button class="btn" data-clipboard-action="copy" data-clipboard-target="#id-0">Copy</button>
+You can also copy it from here. 
+
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-0">Copy Code to Clipboard</button>
 
 ```arduino
 /*
@@ -122,7 +124,9 @@ Most of these ingredients are also found in the Arduino starter kits [I've liste
 
 The code we use for this project comes with the Arduino software, so it's easy to load up. Navigate to the "Blink" sketch by going to the menu bar and choosing _File_ &#8594; _Examples_ &#8594; _03.Analog_ &#8594; _AnalogInput_.
 
-Here it is written out:
+It's written out below.
+
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-1">Copy Code to Clipboard</button>
 
 ```arduino
 /*
@@ -213,6 +217,8 @@ Here's a link to the optional [extension jumper wires on Sparkfun](https://www.s
 
 Here's the sketch used for this project.
 
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-2">Copy Code to Clipboard</button>
+
 ```arduino
 /*
  
@@ -298,7 +304,9 @@ Almost all of the Arduino start-up kits [I've listed](#kits) include a thermisto
 This project uses the example code that comes with the Arduino software. So with the Arduino software 
 running, go to: _File_ &#8594; _Examples_ &#8594; _03.Analog_ &#8594; _AnalogInput_.
 
-You can use the code below, too, which is slight modified for to amplify the sensor readings and make the changes in LED flashes more noticable.
+You can use the code below, too, which is slight modified for to amplify the sensor readings and make the changes in LED flashes more visible.
+
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-3">Copy Code to Clipboard</button>
 
 ```arduino
 /*
@@ -357,6 +365,8 @@ void loop() {
 ```
 
 In the "Taking it Further" section of this chapter, I also provide a simple way to see the _actual_ temperature being read by the sensor. Here's the code for that, which I've called `temp_readings.ino`.
+
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-4">Copy Code to Clipboard</button>
 
 ```arduino
 /*
@@ -438,7 +448,9 @@ should be available in any of the Arduino starter kits [I've listed](#kits).
 
 ### Code
 
-Here's the code used for this project:
+Here's the code used for this project.
+
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-5">Copy Code to Clipboard</button>
 
 ```arduino
 /*
@@ -554,6 +566,8 @@ The optional power supply allows you to untether your Arduino from your computer
 
 Here's the code for this chapter.
 
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-6">Copy Code to Clipboard</button>
+
 ```arduino
 /*
  Analog Input
@@ -638,6 +652,8 @@ Assembling the wind sensor requires a small amount of soldering -- which require
 The optional power supply allows you to untether your Arduino from your computer and keep it running. Arduinos get their power either from the USB port or from the round "barrel" jack next to the Arduino's USB outlet. If you kit doesn't come with a separate power supply, you can buy [one that fits the barrel jack](https://www.adafruit.com/products/276) or [this nifty version](https://www.adafruit.com/products/501) that uses your Arduino's USB cable instead.
 
 ### Code
+
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-7">Copy Code to Clipboard</button>
 
 ```arduino
 /* Modern Device Wind Sensor Sketch for Rev C Wind Sensor 
@@ -781,6 +797,8 @@ Almost all of the ingredients you'll need come in Arduino starter kits [I've lis
 
 Here's the sketch used in this chapter:
 
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-8">Copy Code to Clipboard</button>
+
 ```arduino
 /* Ping))) Sensor
 
@@ -906,7 +924,9 @@ To use the wifi board with the Arduino, we use a libary from Sparkfun, which is 
 
 The library includes example code we need to get up and running. From the Arduino software menu bar it's at _File_ &#8594; _Examples_ &#8594; _SparkFun ESP8266 AT Library_ &#8594; _ESP8266_Sheild_Demo_. 
 
-I've reproduced it here for reference: 
+I've reproduced it here for reference.
+
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-9">Copy Code to Clipboard</button>
 
 ```arduino
 /************************************************************
@@ -1245,6 +1265,8 @@ _Special items_
 This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in the [previous chapter](#chapters-get-your-arduino-online).
 
 ### Code
+
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-10">Copy Code to Clipboard</button>
 
 ```arduino
 /************************************************************
@@ -1638,6 +1660,8 @@ This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/p
 
 ### Code
 
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-11">Copy Code to Clipboard</button>
+
 ```arduino
 /************************************************************
 Built on example code ESP8266_Shield_Demo.h
@@ -1957,6 +1981,8 @@ This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/p
 A thermistor can be found in most of the Arduino starter kits [I've listed below](#kits). If you don't have one, you can get them [online](https://www.adafruit.com/products/372). 
 
 ### Code
+
+<button class="btn" data-clipboard-action="copy" data-clipboard-target="#codeblock-12">Copy Code to Clipboard</button>
 
 ```arduino
 /************************************************************
