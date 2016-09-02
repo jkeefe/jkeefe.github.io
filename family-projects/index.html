@@ -38,10 +38,16 @@
 
   <!-- Initializer -->
   <script>
+    function newIDs(){
+      console.log("got here");
+      $('.lang-arduino').each(function(idx) {
+        console.log($(this));
+        $(this).attr('id', 'id-' + idx);
+      });
+    }
+    
     Flatdoc.run({
       fetcher: Flatdoc.file('README.md')
-    }, function(){
-      
     });
   </script>
   

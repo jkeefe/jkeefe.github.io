@@ -2140,10 +2140,4 @@ In this chapter, we post data to a free data-gathering website made by Sparkfun.
 - [data.sparkfun.com](http://data.sparkfun.com)
 - [Analog.io sign up page](http://analog.io/users/sign_up)
 
-<script>
-console.log("got here");
-$('.lang-arduino').each(function(idx) {
-console.log($(this));
-$(this).attr('id', 'id-' + idx);
-});
-</script>
+<script>newIDs();</script>
