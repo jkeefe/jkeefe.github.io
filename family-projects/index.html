@@ -29,28 +29,81 @@
   <link  href='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/theme-white/style.css' rel='stylesheet'>
   <script src='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/theme-white/script.js'></script>
 
-  <!-- Meta -->
-  <meta content="Your Project" property="og:title">
-  <meta content="Your Project description goes here." name="description">
+  <!-- Copy-to-clipboard -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.12/clipboard.min.js"></script>
 
+  <!-- Meta -->
+  <meta content="Family Projects for Smart Objects" property="og:title">
+  <meta content="Companion site for the book Family Projects for Smart Objects: Tabletop Projects That Respond to Your World" name="description">
+
+  <!-- Extra CSS -->
+  <style type="text/css">
+  
+    body {
+      font-size: 100%;
+    }
+    .btn {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: montserrat, sans-serif;
+    letter-spacing: -1px;
+    font-weight: bold;
+    font-size: 90%;
+    display: inline-block;
+    padding: 3px 25px;
+    border: solid 2px #2badad;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    margin-right: 15px;
+  }
+  .btn {
+    background: #2badad;
+    color: #fff;
+    text-shadow: none;
+  }
+  .btn:hover {
+    border-color: #111;
+    background: #111;
+    color: #fff;
+  }
+  </style>
+  
   <!-- Initializer -->
   <script>
+    // this function assigns unique ids to all code
+    // blocks after Flatdoc loads and formats the page.
+    // This is so I can use "Copy to Clipboard"
+    // buttons specific to each code block.
+    // The buttons, and the call to this function, are in the
+    // README.md as raw html.
+    function newIDs(){
+      console.log("got here");
+      $('.lang-arduino').each(function(idx) {
+        console.log($(this));
+        $(this).attr('id', 'codeblock-' + idx);
+      });
+    }
+    
     Flatdoc.run({
       fetcher: Flatdoc.file('README.md')
     });
   </script>
+  
+
 </head>
 <body role='flatdoc' class='big-h3 no-literate large-brief'>
 
-
-  <div class='header'>
-    <div class='left'>
-      <h1>Family Projects for Smart Objects</h1>
-      <ul>
-          <!-- Can add <li> items here for the top toolbar. -->
-      </ul>
-    </div>
-  </div>
+  <!-- Instantiate clipboard by passing a string selector -->
+  <script>
+  var clipboard = new Clipboard('.btn');
+  clipboard.on('success', function(e) {
+      console.log(e);
+  });
+  clipboard.on('error', function(e) {
+      console.log(e);
+  });
+  
+  </script>
 
   <div class='content-root'>
     <div class='menubar'>
