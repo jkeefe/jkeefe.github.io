@@ -2039,7 +2039,7 @@ A thermistor can be found in most of the Arduino starter kits [I've listed below
 
 The button below takes you to a Sparkfun list of all of the parts in this project, including items you may already have -- and therefore don't need to buy again -- and all of the parts necessary for assembling the wifi board, in case you haven't done that already:
 
-[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131300)
+[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131301)
 
 ### Code
 
