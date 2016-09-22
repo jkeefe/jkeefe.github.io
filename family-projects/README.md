@@ -587,7 +587,7 @@ The optional power supply allows you to untether your Arduino from your computer
 
 You can use the button below to list all of the parts individually on Adafruit's website, including items you may already have -- and therefore don't need to buy again:
 
-[Parts List at Adafruit >](https://www.adafruit.com/wishlists?wid=414025)
+[Parts List at Adafruit >](https://www.adafruit.com/wishlists/414025)
 
 
 ### Code
