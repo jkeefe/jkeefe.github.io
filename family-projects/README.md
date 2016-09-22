@@ -679,7 +679,7 @@ Assembling the wind sensor requires a small amount of soldering -- which require
 
 The optional power supply allows you to untether your Arduino from your computer and keep it running. Arduinos get their power either from the USB port or from the round "barrel" jack next to the Arduino's USB outlet. If you kit doesn't come with a separate power supply, you can buy [one that fits the barrel jack](https://www.adafruit.com/products/276) or [this nifty version](https://www.adafruit.com/products/501) that uses your Arduino's USB cable instead.
 
-You can use the button below to list all of the parts -- except for the [wind sensor]((https://moderndevice.com/product/wind-sensor/)) -- on Sparkfun's website. Note that it includes the optional power supply and items you may already have, and therefore don't need to buy again:
+You can use the button below to list all of the parts -- **except for the [wind sensor](https://moderndevice.com/product/wind-sensor/)** -- on Sparkfun's website. Note that it includes the optional power supply and items you may already have, and therefore don't need to buy again:
 
 [Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131296)
 
