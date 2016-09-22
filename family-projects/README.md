@@ -4,7 +4,9 @@ This is the companion website for [_Family Projects for Smart Objects: Tabletop 
   
 # Kits
 
-To make these projects, you'll need a handful of hobby electronics, which are relatively cheap and readily available. You can buy the parts for each project individually, or you can get "starter kits" that have almost all of the parts you'll need for this book. Here are some of the kits, with (TODO) additional notes about chapters where you may need to get some extra parts:
+## Pre-packaged starter kits
+
+To make these projects, you'll need a handful of hobby electronics, which are relatively cheap and readily available. Each chapter lists what you'll need, and you'll find links to individual parts, by chapter, on this site. Another option is to buy a "starter kit" that have almost all of the parts you'll need for this book:
 
 - [Adafruit Experimentation Kit for Arduino ($$)](https://www.adafruit.com/products/170)
 - [Adafruit Starter Pack for Arduino ($$)](https://www.adafruit.com/products/68)
@@ -12,6 +14,20 @@ To make these projects, you'll need a handful of hobby electronics, which are re
 - [Make: Getting Started with Arduino Kit, Special Edition ($$)](http://www.makershed.com/products/make-getting-started-kit-arduino-uno-r3)
 - [Sparkfun Invetor's Kit for Arduino ($$$$)](https://www.sparkfun.com/products/13844)
 - [SparkFun Inventor's Kit for Arduino - V3.2 ($$$)](https://www.sparkfun.com/products/13154)
+
+Links to parts that don't come in your starter kit are on this site, under each chapter.
+
+## Make your own kit
+
+I've put nearly all of the parts for this book on a "wish list" you can use on Sparkfun's site to pick and choose what you need:
+
+[The Big Parts List on Sparkfun >](https://www.sparkfun.com/wish_lists/131304)
+
+To do every project, you would also need three things not available at Sparkfun:
+
+- a [Modern Device Wind Sensor](https://moderndevice.com/product/wind-sensor/)
+- a <a  href="https://www.amazon.com/gp/product/B00C9O00B4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00C9O00B4&linkCode=as2&tag=reall046-20&linkId=4d535ccd225f51f45a44c3b52f0edcfd">Parallax Ping Sensor</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=reall046-20&l=am2&o=1&a=B00C9O00B4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+- a [little buzzer](https://www.adafruit.com/products/1536)
 
 
 # Chapters  
@@ -570,8 +586,8 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 1 Ardunio USB cable 
 - 1 Breadboard
 - 5 jumper wires
-- 1 [pressure sensor](https://www.sparkfun.com/products/9673)
-- 1 [little buzzer](https://www.adafruit.com/products/160)
+- 1 [pressure sensor](https://www.sparkfun.com/products/9375)
+- 1 [little buzzer](https://www.adafruit.com/products/1536)
 - 1 10k-ohm (10k&#937;) resistor
 - a small object you cherish :-)
 
@@ -579,7 +595,7 @@ _Optional part_
 
 - 1 [Arduino power supply](https://www.adafruit.com/products/276)
 
-Most of these ingredients are also found in the Arduino starter kits [I've listed](#kits). Double check to make sure the kit you select has a pressure sensor. If you need one [here's a little version at Sparkfun](https://www.sparkfun.com/products/9673) and [here's a bigger one at Adafruit](https://www.adafruit.com/products/1075).
+Most of these ingredients are also found in the Arduino starter kits [I've listed](#kits). Double check to make sure the kit you select has a pressure sensor. If you need one [here's on at Sparkfun](https://www.sparkfun.com/products/9375) and on [at Adafruit](https://www.adafruit.com/products/1075).
 
 You'll also need a little buzzer. If your kit doesn't have one, [you can buy one at Adafruit](https://www.adafruit.com/products/1536).
 
