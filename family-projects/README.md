@@ -787,13 +787,13 @@ In addition to your own computer, here's what you'll need for this chapter.
 
 _Special parts_
 
-- 1 [Parallax Ping sensor](http://www.amazon.com/Parallax-Ultrasonic-Range-Sensor-28015/dp/B004SRTM0K)
+- 1 <a  href="https://www.amazon.com/gp/product/B00C9O00B4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00C9O00B4&linkCode=as2&tag=reall046-20&linkId=4d535ccd225f51f45a44c3b52f0edcfd">Parallax Ping Sensor</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=reall046-20&l=am2&o=1&a=B00C9O00B4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 _Optional parts_
 
 - 1 LED
 
-Almost all of the ingredients you'll need come in Arduino starter kits [I've listed](#kits), with a notable exception &#8212; the [Parallax Ping sensor](http://www.amazon.com/Parallax-Ultrasonic-Range-Sensor-28015/dp/B004SRTM0K), which you'll need to buy separately. These are common enough that you can sometimes find them in local hobby or electronics stores, too.
+Almost all of the ingredients you'll need come in Arduino starter kits [I've listed](#kits), with a notable exception &#8212; the <a  href="https://www.amazon.com/gp/product/B00C9O00B4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00C9O00B4&linkCode=as2&tag=reall046-20&linkId=4d535ccd225f51f45a44c3b52f0edcfd">Parallax Ping Sensor</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=reall046-20&l=am2&o=1&a=B00C9O00B4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, which you'll need to buy separately. These are common enough that you can sometimes find them in local hobby or electronics stores, too.
 
 ### Code
 
@@ -1264,7 +1264,7 @@ _Special items_
 
 - The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [previous chapter](#chapters-get-your-arduino-online). 
 
-This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in the [previous chapter](#chapters-get-your-arduino-online).
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are in the [previous chapter](#chapters-get-your-arduino-online).
 
 ### Code
 
@@ -1657,9 +1657,9 @@ In addition to your own computer, here's what you'll need for this chapter.
 
 _Special items_
 
-- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [previous chapter](#chapters-get-your-arduino-online). 
+- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [an earlier chapter](#chapters-get-your-arduino-online). 
 
-This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in a [previous chapter](#chapters-get-your-arduino-online).
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are in an [earlier chapter](#chapters-get-your-arduino-online).
 
 
 ### Code
@@ -1982,7 +1982,7 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 1 [Thermistor](https://www.adafruit.com/products/372)
 - 1 10K Resistor
 
-This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in a [previous chapter](#chapters-get-your-arduino-online).
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are in an [earlier chapter](#chapters-get-your-arduino-online).
 
 A thermistor can be found in most of the Arduino starter kits [I've listed below](#kits). If you don't have one, you can get them [online](https://www.adafruit.com/products/372). 
 
