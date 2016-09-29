@@ -1,6 +1,6 @@
 # Family Projects for Smart Objects
   
-This is the companion website for [_Family Projects for Smart Objects: Tabletop Projects That Respond to Your World_](https://www.amazon.com/dp/1680451235) by [John Keefe](http://johnkeefe.net). Here you'll find code you can copy and links to ingredients for every project in the book.
+This is the companion website for [_Family Projects for Smart Objects: Tabletop Projects That Respond to Your World_](http://amzn.to/2cY2PAH) by [John Keefe](http://johnkeefe.net). Here you'll find code you can copy and links to ingredients for every project in the book.
 
 # The Book
 
@@ -8,12 +8,15 @@ This is the companion website for [_Family Projects for Smart Objects: Tabletop 
 
 _Family Projects for Smart Objects_ is available in paperback and as an e-book.
 
-[Buy at Amazon >]
+[Buy at Amazon >](http://amzn.to/2cY2PAH)
+
 
 
 # Kits
 
-To make these projects, you'll need a handful of hobby electronics, which are relatively cheap and readily available. You can buy the parts for each project individually, or you can get "starter kits" that have almost all of the parts you'll need for this book. Here are some of the kits, with (TODO) additional notes about chapters where you may need to get some extra parts:
+## Pre-packaged starter kits
+
+To make these projects, you'll need a handful of hobby electronics, which are relatively cheap and readily available. Each chapter lists what you'll need, and you'll find links to individual parts, by chapter, on this site. Another option is to buy a "starter kit" that have almost all of the parts you'll need for this book:
 
 - [Adafruit Experimentation Kit for Arduino ($$)](https://www.adafruit.com/products/170)
 - [Adafruit Starter Pack for Arduino ($$)](https://www.adafruit.com/products/68)
@@ -21,6 +24,20 @@ To make these projects, you'll need a handful of hobby electronics, which are re
 - [Make: Getting Started with Arduino Kit, Special Edition ($$)](http://www.makershed.com/products/make-getting-started-kit-arduino-uno-r3)
 - [Sparkfun Invetor's Kit for Arduino ($$$$)](https://www.sparkfun.com/products/13844)
 - [SparkFun Inventor's Kit for Arduino - V3.2 ($$$)](https://www.sparkfun.com/products/13154)
+
+Links to parts that don't come in your starter kit are on this site, under each chapter.
+
+## Make your own kit
+
+I've put nearly all of the parts for this book on a "wish list" you can use on Sparkfun's site to pick and choose what you need:
+
+[The Big Parts List on Sparkfun >](https://www.sparkfun.com/wish_lists/131304)
+
+To do every project, you would also need three things not available at Sparkfun:
+
+- a [Modern Device Wind Sensor](https://moderndevice.com/product/wind-sensor/)
+- a <a  href="https://www.amazon.com/gp/product/B00C9O00B4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00C9O00B4&linkCode=as2&tag=reall046-20&linkId=4d535ccd225f51f45a44c3b52f0edcfd">Parallax Ping Sensor</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=reall046-20&l=am2&o=1&a=B00C9O00B4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+- a [little buzzer](https://www.adafruit.com/products/1536)
 
 
 # Chapters  
@@ -65,6 +82,10 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 1 LED
 
 These ingredients are also found in all of the Arduino starter kits [I've listed](#kits).
+
+Here's the parts list on Sparkfun's website, including items you may already have -- and therefore don't need to buy again:
+
+[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131290)
 
 ### Code
 
@@ -124,10 +145,14 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 1 Breadboard
 - 1 LED
 - 3 jumper wires
-- 1 Photoresistor
+- 1 Photoresistor (also called a photocell)
 - 1 10K-ohm (10K&#937;) resistor
 
 Most of these ingredients are also found in the Arduino starter kits [I've listed](#kits).
+
+Click the button below to see the parts list on Sparkfun's website, including items you may already have -- and therefore don't need to buy again:
+
+[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131291)
 
 ### Code
 
@@ -206,7 +231,7 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 1 Arduino
 - 1 Arduino USB cable 
 - 1 Breadboard
-- 1 photoresistor
+- 1 photoresistor (also called a photocell)
 - 1 LED (white, if you have one)
 - 3 Jumper wires
 
@@ -221,6 +246,11 @@ Except for the Optional Items, these ingredients are also found in the Arduino s
 The optional power supply allows you to untether your Arduino from your computer -- and let it run on its own. Arduinos get their power either from the USB port or from the round "barrel" jack next to the Arduino's USB outlet. If you kit doesn't come with a separate power supply, you can buy [one that fits the barrel jack](https://www.adafruit.com/products/276) or [this nifty version](https://www.adafruit.com/products/501) that uses your Arduino's USB cable instead.
 
 Here's a link to the optional [extension jumper wires on Sparkfun](https://www.sparkfun.com/products/9140).
+
+The button below will show you all of the parts listed on Sparkfun's website, including optional parts and items you may already have -- and therefore don't need to buy again:
+
+[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131292)
+
 
 ### Code
 
@@ -302,11 +332,17 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 1 Arduino Uno
 - 1 Arduino USB cable 
 - 1 Breadboard
+- 1 LED (Note this was left out of the book's ingredients list!)
 - 1 Thermistor
 - 1 10k-ohm (10k&#937;) resistor
+- 3 jumper wires
 - A glass of ice water
 
-Almost all of the Arduino start-up kits [I've listed](#kits) include a thermistor. Sometimes they are at the ends of long, wiggly wires; other times they have stiff wires, like an LED. Either one will work here.
+Almost all of the Arduino start-up kits [I've listed](#kits) include a thermistor -- and it's almost always the TMP36. That's the one we use in this chapter. If you don't have one, [you can get one](https://www.sparkfun.com/products/10988) cheaply online.
+
+The button below will show you all of the parts listed on Sparkfun's website, including items you may already have -- and therefore don't need to buy again:
+
+[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131293)
 
 ### Code
 
@@ -446,14 +482,18 @@ In addition to your own computer, here's what you'll need for this chapter.
 
 - 1 Arduino Uno
 - 1 Ardunio USB cable 
+- 1 Breadboard
 - 1 LED
 - 3 jumper wires
 - 1 resistor, with the highest resistance you have
 - 1 square of aluminum foil, about the size of a cracker
 - A piece of tape
 
-All of the items in this project, besides the aluminum foil and tape, 
-should be available in any of the Arduino starter kits [I've listed](#kits).
+All of the items in this project, besides the aluminum foil and tape, should be available in any of the Arduino starter kits [I've listed](#kits).
+
+You can also use the button below to list all of the parts individually on Sparkfun's website, including items you may already have -- and therefore don't need to buy again:
+
+[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131294)
 
 ### Code
 
@@ -556,8 +596,8 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 1 Ardunio USB cable 
 - 1 Breadboard
 - 5 jumper wires
-- 1 [pressure sensor](https://www.sparkfun.com/products/9673)
-- 1 [little buzzer](https://www.adafruit.com/products/160)
+- 1 [pressure sensor](https://www.sparkfun.com/products/9375)
+- 1 [little buzzer](https://www.adafruit.com/products/1536)
 - 1 10k-ohm (10k&#937;) resistor
 - a small object you cherish :-)
 
@@ -565,11 +605,16 @@ _Optional part_
 
 - 1 [Arduino power supply](https://www.adafruit.com/products/276)
 
-Most of these ingredients are also found in the Arduino starter kits [I've listed](#kits). Double check to make sure the kit you select has a pressure sensor. If you need one [here's a little version at Sparkfun](https://www.sparkfun.com/products/9673) and [here's a bigger one at Adafruit](https://www.adafruit.com/products/1075).
+Most of these ingredients are also found in the Arduino starter kits [I've listed](#kits). Double check to make sure the kit you select has a pressure sensor. If you need one [here's on at Sparkfun](https://www.sparkfun.com/products/9375) and on [at Adafruit](https://www.adafruit.com/products/1075).
 
-You'll also need a little buzzer, often called a piezo buzzer. If your kit doesn't have one, [you can buy one at Adafruit](https://www.adafruit.com/products/160).
+You'll also need a little buzzer. If your kit doesn't have one, [you can buy one at Adafruit](https://www.adafruit.com/products/1536).
 
 The optional power supply allows you to untether your Arduino from your computer and keep it running. Arduinos get their power either from the USB port or from the round "barrel" jack next to the Arduino's USB outlet. If you kit doesn't come with a separate power supply, you can buy [one that fits the barrel jack](https://www.adafruit.com/products/276) or [this nifty version](https://www.adafruit.com/products/501) that uses your Arduino's USB cable instead.
+
+You can use the button below to list all of the parts individually on Adafruit's website, including items you may already have -- and therefore don't need to buy again:
+
+[Parts List at Adafruit >](https://www.adafruit.com/wishlists/414025)
+
 
 ### Code
 
@@ -659,6 +704,10 @@ Almost all of the ingredients you'll need come in Arduino starter kits [I've lis
 Assembling the wind sensor requires a small amount of soldering -- which requires a soldering iron and solder. If you don't have these at home, you can get them at a local hardware or hobby store, and of course from an online seller. Here's the Sparkfun links to a [soldering iron](https://www.sparkfun.com/products/9507) (they have many) and also some [lead-free solder](https://www.sparkfun.com/products/9325). 
 
 The optional power supply allows you to untether your Arduino from your computer and keep it running. Arduinos get their power either from the USB port or from the round "barrel" jack next to the Arduino's USB outlet. If you kit doesn't come with a separate power supply, you can buy [one that fits the barrel jack](https://www.adafruit.com/products/276) or [this nifty version](https://www.adafruit.com/products/501) that uses your Arduino's USB cable instead.
+
+You can use the button below to list all of the parts -- **except for the [wind sensor](https://moderndevice.com/product/wind-sensor/)** -- on Sparkfun's website. Note that it includes the optional power supply and items you may already have, and therefore don't need to buy again:
+
+[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131296)
 
 ### Code
 
@@ -796,13 +845,17 @@ In addition to your own computer, here's what you'll need for this chapter.
 
 _Special parts_
 
-- 1 [Parallax Ping sensor](http://www.amazon.com/Parallax-Ultrasonic-Range-Sensor-28015/dp/B004SRTM0K)
+- 1 <a  href="https://www.amazon.com/gp/product/B00C9O00B4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00C9O00B4&linkCode=as2&tag=reall046-20&linkId=4d535ccd225f51f45a44c3b52f0edcfd">Parallax Ping Sensor</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=reall046-20&l=am2&o=1&a=B00C9O00B4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 _Optional parts_
 
 - 1 LED
 
-Almost all of the ingredients you'll need come in Arduino starter kits [I've listed](#kits), with a notable exception &#8212; the [Parallax Ping sensor](http://www.amazon.com/Parallax-Ultrasonic-Range-Sensor-28015/dp/B004SRTM0K), which you'll need to buy separately. These are common enough that you can sometimes find them in local hobby or electronics stores, too.
+Almost all of the ingredients you'll need come in Arduino starter kits [I've listed](#kits), with a notable exception &#8212; the <a  href="https://www.amazon.com/gp/product/B00C9O00B4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00C9O00B4&linkCode=as2&tag=reall046-20&linkId=4d535ccd225f51f45a44c3b52f0edcfd">Parallax Ping Sensor</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=reall046-20&l=am2&o=1&a=B00C9O00B4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, which you'll need to buy separately. These are common enough that you can sometimes find them in local hobby or electronics stores, too.
+
+You can use the button below to list all of the parts -- **except for the <a  href="https://www.amazon.com/gp/product/B00C9O00B4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00C9O00B4&linkCode=as2&tag=reall046-20&linkId=4d535ccd225f51f45a44c3b52f0edcfd">Parallax Ping Sensor</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=reall046-20&l=am2&o=1&a=B00C9O00B4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />** -- on Sparkfun's website. Note that it includes the optional LED and items you may already have and therefore don't need to buy again:
+
+[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131297)
 
 ### Code
 
@@ -920,6 +973,9 @@ The optional [Break-Away Headers](https://www.sparkfun.com/products/116) and bre
 
 Soldering the stackable headers to the wif board requires a soldering iron and solder. If you don't have these, you can get them at a local hardware or hobby store, and of course from an online seller. Here's the Sparkfun links to a [soldering iron](https://www.sparkfun.com/products/9507) (they have many) and also some [lead-free solder](https://www.sparkfun.com/products/9325). 
 
+Hit the button below to see all the parts for this project listed on Sparkfun, including the optional (but really useful) parts and items you may already have -- and therefore don't need to buy again:
+
+[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/127976)
 
 ### Code
 
@@ -1264,16 +1320,20 @@ The answer could be as simple as looking at your Arduino. In this chapter, we'll
 
 In addition to your own computer, here's what you'll need for this chapter.
 
-- 1 Arduino
-- 1 Ardunio USB cable 
-- 1 LED
+- 1 [Arduino UNO](https://www.sparkfun.com/products/11021)
+- 1 [Ardunio USB cable](https://www.sparkfun.com/products/512) 
+- 1 [LED](https://www.sparkfun.com/products/10632)
 - A home wifi network and the password for it
 
 _Special items_
 
 - The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [previous chapter](#chapters-get-your-arduino-online). 
 
-This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in the [previous chapter](#chapters-get-your-arduino-online).
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are in the [previous chapter](#chapters-get-your-arduino-online).
+
+Hit the button below to see all the parts for this project listed on Sparkfun, including items you may already have -- and therefore don't need to buy again -- and all of the parts for assembling the wifi board, if you haven't done that already:
+
+[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131299)
 
 ### Code
 
@@ -1657,19 +1717,27 @@ In addition to your own computer, here's what you'll need for this chapter.
 
 - 1 Arduino Uno
 - 1 Arduino USB cable 
-- 1 Arduino power supply
-- 1 Breadboard
-- Push button
+- 1 breadboard
+- 1 push button
+- 1 10K-ohm (10K&#937;) resistor
+- 3 jumper wires
 - A home wifi network and the password for it
 - A web browser
 - An email address
 
 _Special items_
 
-- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [previous chapter](#chapters-get-your-arduino-online). 
+- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [an earlier chapter](#chapters-get-your-arduino-online). 
 
-This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in a [previous chapter](#chapters-get-your-arduino-online).
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are in an [earlier chapter](#chapters-get-your-arduino-online).
 
+_Optional item_
+
+- 1 Arduino power supply
+
+The button below will take you to a list of parts for this project on Sparkfun, including the optional power supply, items you may already have -- and therefore don't need to buy again -- and all of the parts for assembling the wifi board, in case you haven't done that already:
+
+[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131300)
 
 ### Code
 
@@ -1981,19 +2049,23 @@ In addition to your own computer, here's what you'll need for this chapter.
 - 1 Arduino
 - 1 Ardunio USB cable 
 - 1 Arduino power supply
-- 1 Breadboard
+- 1 breadboard
+- 3 jumper wires
 - A home wifi network and the password for it
 - A web browser
 
 *Special items*
 
 - Your assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287)
-- 1 [Thermistor](https://www.adafruit.com/products/372)
-- 1 10K Resistor
+- 1 [Thermistor](https://www.sparkfun.com/products/10988)
 
-This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are on the product page and in a [previous chapter](#chapters-get-your-arduino-online).
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are in an [earlier chapter](#chapters-get-your-arduino-online).
 
-A thermistor can be found in most of the Arduino starter kits [I've listed below](#kits). If you don't have one, you can get them [online](https://www.adafruit.com/products/372). 
+A thermistor can be found in most of the Arduino starter kits [I've listed below](#kits). If you don't have one, you can get them [online](https://www.sparkfun.com/products/10988). 
+
+The button below takes you to a Sparkfun list of all of the parts in this project, including items you may already have -- and therefore don't need to buy again -- and all of the parts necessary for assembling the wifi board, in case you haven't done that already:
+
+[Parts List at Sparkfun >](https://www.sparkfun.com/wish_lists/131301)
 
 ### Code
 
