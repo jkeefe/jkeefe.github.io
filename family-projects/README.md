@@ -12,7 +12,7 @@ This is the companion website for [_Family Projects for Smart Objects: Tabletop 
 
 # The Author
 
-![John Keefe](images/keefe_bridge.jpg)
+![John Keefe](images/keefe_bridge_200.jpg)
 
 John Keefe describes himself as a "professional beginner" and loves making new things. When he does, he posts them on [his website](http://johnkeefe.net) and talks about them [on Twitter](http://twitter.com/jkeefe).  He's also the Senior Editor on the Data News Team at public radio station WNYC in New York, teaches and leads workshops at NYC colleges and universities, founded an invention collaborative called Really Good Smarts LLC and is dad to two awesome daughters. 
 
