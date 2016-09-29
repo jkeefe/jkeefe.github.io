@@ -6,11 +6,19 @@ This is the companion website for [_Family Projects for Smart Objects: Tabletop 
 
 ![Family Projects for Smart Objects](images/FamilyProjectsCoverSmall200.png)
 
-_Family Projects for Smart Objects_ is available in paperback and as an e-book.
+[_Family Projects for Smart Objects_](http://amzn.to/2cY2PAH) is available in paperback and as an e-book.
 
 [Buy at Amazon >](http://amzn.to/2cY2PAH)
 
+# The Author
 
+![John Keefe](images/keefe_bridge.jpg)
+
+John Keefe describes himself as a "professional beginner" and loves making new things. When he does, he posts them on [his website](http://johnkeefe.net) and talks about them [on Twitter](http://twitter.com/jkeefe).  He's also the Senior Editor on the Data News Team at public radio station WNYC in New York, teaches and leads workshops at NYC colleges and universities, founded an invention collaborative called Really Good Smarts LLC and is dad to two awesome daughters. 
+
+# The Community
+
+We've fired up the [Family Projects Facebook Page](https://www.facebook.com/famprojects/) ... which is a great place to get the latest information and to share your experiences!
 
 # Kits
 
@@ -40,9 +48,9 @@ To do every project, you would also need three things not available at Sparkfun:
 - a [little buzzer](https://www.adafruit.com/products/1536)
 
 
-# Chapters  
+# Parts & Code by Chapter
 
-## You Only Have to Do This Once
+## 1. You Only Have to Do This Once
 
 This is the kickoff chapter in the book, and all about getting your Arduino up and running. And you only have to do it once.
 
@@ -67,7 +75,7 @@ The book outlines how to install Arduino software on Mac, Windows or Ubuntu comp
 - [Installing Arduino for Debian](http://playground.arduino.cc/Linux/Debian)
 - [Installing Arduino on Fedora](http://playground.arduino.cc/Linux/Fedora)
 
-## Hello Blinky World
+## 2. Hello Blinky World
 
 Traditionally, when people begin learning something new about computers, 
 their first project is to make the computer say, "hello world." Among 
