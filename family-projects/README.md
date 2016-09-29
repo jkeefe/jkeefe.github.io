@@ -1,7 +1,16 @@
 # Family Projects for Smart Objects
   
 This is the companion website for [_Family Projects for Smart Objects: Tabletop Projects That Respond to Your World_](https://www.amazon.com/dp/1680451235) by [John Keefe](http://johnkeefe.net). Here you'll find code you can copy and links to ingredients for every project in the book.
-  
+
+# The Book
+
+![Family Projects for Smart Objects](images/FamilyProjectsCoverSmall200.png)
+
+_Family Projects for Smart Objects_ is available in paperback and as an e-book.
+
+[Buy at Amazon >]
+
+
 # Kits
 
 To make these projects, you'll need a handful of hobby electronics, which are relatively cheap and readily available. You can buy the parts for each project individually, or you can get "starter kits" that have almost all of the parts you'll need for this book. Here are some of the kits, with (TODO) additional notes about chapters where you may need to get some extra parts:
