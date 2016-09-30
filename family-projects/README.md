@@ -2056,7 +2056,7 @@ This project uses the [IFTTT website](http://ifttt.com) to turn our button-press
 - [Maker channel on IFTTT](https://ifttt.com/maker)
 
 
-## Online Temperature Tracker
+## 13. Online Temperature Tracker
 
 Arduinos are excellent at logging their observations. With this project, we get Arduino logging environmental data online.
 
