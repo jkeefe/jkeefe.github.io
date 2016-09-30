@@ -149,7 +149,7 @@ Every sketch used in "Family Projects for Smart Objects" is also available in a 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
-## A Dark-Detecting Light
+## 3. A Dark-Detecting Light
 
 For this project, we make an LED flash fast and urgently when the room is 
 dark, and slow and calm when the room is bright.
@@ -237,7 +237,7 @@ Every sketch used in "Family Projects for Smart Objects" is also available in a 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
-## Night Light
+## 4. Night Light
 
 Night lights are awesome and useful, and the best ones save power by 
 only lighting up when it's dark in the room. That's what we make with this project.
@@ -335,11 +335,11 @@ void loop() {
 }
 ```
 
-Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up bundle [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
+Every sketch used in "Family Projects for Smart Objects" is also available in a zipped-up [you can download here](https://github.com/jkeefe/family-projects-sketches/archive/master.zip). Once you do, navigate to your downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
-## Ice, Ice Binkly
+## 5. Ice, Ice Binkly
 
 This project makes an LED react to cold water.
 
@@ -487,7 +487,7 @@ Every sketch used in "Family Projects for Smart Objects" is also available in a 
 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
-## A Gentle Touch
+## 6. A Gentle Touch
 
 When you tap a "button" on a smartphone's screen you obviously aren't 
 pushing a button. The phone is detecting your finger on the glass. The 
@@ -602,7 +602,7 @@ In this chapter, I mention other fabrics you can use instead of foil and the abi
 
 
 
-## Someone Moved My Stuff!
+## 7. Someone Moved My Stuff!
 
 This project uses a force, or pressure, sensor to detect when someone lifts an object from its place.
 
@@ -692,7 +692,7 @@ You'll find all of the sketches within "chapter" folders in that file. The sketc
 
 In the "Taking it Further" section of this chapter, I mention a cool material called Velostat that also has pressure-sensitive qualities. Lean more about [using (and buying) Velostat at Adafruit](https://www.adafruit.com/product/1361).
 
-## Electric Candle
+## 8. Electric Candle
 
 In this chapter, we use a "hot-wire" wind detector to make an electric candle you can actually blow out. 
 
@@ -846,7 +846,7 @@ Soldering is a great skill to have, and it's super easy to learn. Here's an exce
 - [Adafruit Guide to Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
 
 
-## Invisible Ruler
+## 9. Invisible Ruler
 
 Maybe you know how bats "see" with sound: Emitting high-pitched clicks 
 and listening for how those sounds bounce off of things. It's called 
@@ -962,7 +962,7 @@ Every sketch used in "Family Projects for Smart Objects" is also available in a 
 You'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it.
 
 
-## Get Your Arduino Online
+## 10. Get Your Arduino Online
 
 In this chapter, we use an inexpensive wifi board to get an Arduino onto the internet. This project forms the foundation for the chapters in the rest of the book.
 
@@ -1330,7 +1330,7 @@ Soldering is a great skill to have, and it's super easy to learn. Here's an exce
 - [Adafruit Guide to Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
 
 
-## Do I Need an Umbrella Today?
+## 11. Do I Need an Umbrella Today?
 
 The answer could be as simple as looking at your Arduino. In this chapter, we'll go beyond asking about the current weather &#8212; we'll get an Arduino to ask for a weather _forecast_ and use that information to determine whether you'll need an umbrella.
 
@@ -1725,7 +1725,7 @@ Here are some of the links mentioned in this chapter, for easy reference:
 - [OpenWeatherMap's Current Conditions API](http://openweathermap.org/current) -- more details on the data we're getting.
 
 
-## Send Email with a Button
+## 12. Send Email with a Button
 
 If making a computer say "Hello, world" is the first step of programming, and making an LED blink is the "Hello, world" of do-it-yourself smart objects, it's quite possible that making an "Internet Button" is the "Hello, world" of "Internet of Things" things. In this project, we make a button that send an email.
 
