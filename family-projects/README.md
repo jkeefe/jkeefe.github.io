@@ -1,6 +1,6 @@
 # Family Projects for Smart Objects
   
-This is the companion website for [_Family Projects for Smart Objects: Tabletop Projects That Respond to Your World_](http://amzn.to/2cY2PAH) by [John Keefe](http://johnkeefe.net). Here you'll find code you can copy and links to ingredients for every project in the book.
+This is the companion website for [_Family Projects for Smart Objects: Tabletop Projects That Respond to Your World_](http://amzn.to/2cY2PAH) by [John Keefe](http://johnkeefe.net). Here you'll find all the parts, information and code you need for every project in the book.
 
 # The Book
 
@@ -20,11 +20,21 @@ John Keefe describes himself as a "professional beginner" and loves making new t
 
 We've fired up the [Family Projects Facebook Page](https://www.facebook.com/famprojects/) ... which is a great place to get the latest information and to share your experiences!
 
+# All the Code
+
+The Arduino code you need for each chapter is listed, by chapter, below. Just scroll down, copy the code you need and paste it into your Arduino software.
+
+Alternatively, you can download _all_ of the code in one zipped-up bundle.
+
+[Download the Code Bundle >](https://github.com/jkeefe/family-projects-sketches/archive/master.zip)
+
+That should save a ".zip" file to your downloads folder. When it's done downloading, navigate to he downloads folder and unzip the file `family-projects-sketches-master.zip`, usually done just by clicking or double-clicking its icon. Inside, you'll find all of the sketches within "chapter" folders in that file. The sketches end in `.ino` (for Ardu_ino_) and have a blue Arduino icon. To use one, just double-click on it -- it should open up right into your Arduino software!
+
 # Kits
 
 ## Pre-packaged starter kits
 
-To make these projects, you'll need a handful of hobby electronics, which are relatively cheap and readily available. Each chapter lists what you'll need, and you'll find links to individual parts, by chapter, on this site. Another option is to buy a "starter kit" that have almost all of the parts you'll need for this book:
+To make these projects, you'll need a handful of hobby electronics parts, which are relatively cheap and readily available. Each chapter lists what you'll need, and you'll find links to individual parts, by chapter, on this site. Another option is to buy a "starter kit" that have almost all of the parts you'll need for this book:
 
 - [Adafruit Experimentation Kit for Arduino ($$)](https://www.adafruit.com/products/170)
 - [Adafruit Starter Pack for Arduino ($$)](https://www.adafruit.com/products/68)
