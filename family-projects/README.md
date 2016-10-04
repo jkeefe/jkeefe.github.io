@@ -1317,9 +1317,9 @@ In addition to your own computer, here's what you'll need for this chapter.
 
 _Special items_
 
-- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [previous chapter](#chapters-get-your-arduino-online). 
+- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [previous chapter](#parts-code-by-chapter-10-get-your-arduino-online). 
 
-This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are in the [previous chapter](#chapters-get-your-arduino-online).
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are in the [previous chapter](#parts-code-by-chapter-10-get-your-arduino-online).
 
 Hit the button below to see all the parts for this project listed on Sparkfun, including items you may already have -- and therefore don't need to buy again -- and all of the parts for assembling the wifi board, if you haven't done that already:
 
@@ -1717,9 +1717,9 @@ In addition to your own computer, here's what you'll need for this chapter.
 
 _Special items_
 
-- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [an earlier chapter](#chapters-get-your-arduino-online). 
+- The assembled [Sparkfun Wifi Shield (ESP8266)](https://www.sparkfun.com/products/13287) from the [an earlier chapter](#parts-code-by-chapter-10-get-your-arduino-online). 
 
-This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are in an [earlier chapter](#chapters-get-your-arduino-online).
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are in an [earlier chapter](#parts-code-by-chapter-10-get-your-arduino-online).
 
 _Optional item_
 
@@ -2049,7 +2049,7 @@ In addition to your own computer, here's what you'll need for this chapter.
 - Your assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287)
 - 1 [Thermistor](https://www.sparkfun.com/products/10988)
 
-This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are in an [earlier chapter](#chapters-get-your-arduino-online).
+This project uses an assembled [Sparkfun Wifi Shield](https://www.sparkfun.com/products/13287). Details on its assembly, with [Arduino R3 Stackable Headers](https://www.sparkfun.com/products/11417), are in an [earlier chapter](#parts-code-by-chapter-10-get-your-arduino-online).
 
 A thermistor can be found in most of the Arduino starter kits [I've listed below](#kits). If you don't have one, you can get them [online](https://www.sparkfun.com/products/10988). 
 
