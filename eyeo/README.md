@@ -11,6 +11,9 @@ Details and audio files from are still up at [infomagical.org](http://infomagica
 ## Quartz Bot Studio
 Get all the deets from our blog at [bots.qz.com](https://bots.qz.com).
 
+## Quackbot
+The Slack bot for journalists. [Get it here](http://documentcloud.org/quackbot).
+
 ## Dexter
 [Dexter](https://rundexter.com) is the bot-writing platform we use. [Read about why](https://bots.qz.com/1360/we-found-the-best-tool-for-building-chat-bots/), and how we landed on it after testing two dozen other tools. Dexter's platform is based on [RiveScript](https://www.rivescript.com/docs/tutorial), though Dexter has added some features and doesn't support all of the language's functions. I taught [a free online course](https://journalismcourses.org/BB0205.html) about using Dexter and RiveScript to make bots. 
 
