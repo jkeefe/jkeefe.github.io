@@ -47,5 +47,10 @@ J. Barnard Gilmore, “Play: A Special behavior.” In Child’s Play, edited by
 
 ## Friday: Play & Screens
 
+[Slides](./documents/Keefe_Play_and_Screens.pdf)
+
 [The Art of Screen Time](https://www.amazon.com/gp/product/1610396723/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=reall046-20&creative=9325&linkCode=as2&creativeASIN=1610396723&linkId=377c9c71d0da91394d37c8462ecc59d5) by Anya Kamenetz, which was the basis of the Friday talk.
 
+[Gardening at Night: One Dad’s Guide to Minecraft](https://medium.com/@jkeefe/gardening-at-night-81972a060908)
+
+[Chibimojis: A dad and his daughter walk into the App Store](http://johnkeefe.net/chibimojis-a-dad-and-his-daughter-walk-into-the-app-store)
