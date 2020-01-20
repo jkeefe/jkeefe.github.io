@@ -104,9 +104,7 @@ Below is a rundown of what I expect we'll cover in our weeks together. Be very a
 
 # Class 1 • Jan 27
 
-## Lesson
-
-
+Hello! In this class we'll get to know each other, agree on the 
 
 ## Notes
 
@@ -128,12 +126,10 @@ Due by 8 a.m. on February 3.
 
 # Class 2 • Feb 3
 
-## Lesson
 
 
 # Class 3 • Feb 10
 
-## Lesson
 
 
 ## Assignment
