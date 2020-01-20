@@ -13,27 +13,23 @@ augment classic investigative reporting techniques with audience engagement, mac
 - brainstorm, strategize, and plan story directions and lines of inquiry
 - work directly on stories, research, visualizations, or web applications 
 
-We will work as a team, with opportunities for individual focus in any of these areas. Together, all students will take part in contemporary tactics used by today’s leading news organizations. Student work Quartz publishes will be credited by name.
+We will work as a team, and on sub-teams, with opportunities for individual focus in any of these areas. Together, all students will take part in contemporary tactics used by today’s leading news organizations. Student work Quartz publishes will be credited by name.
 
 # Logistics and Details
 
 Here's what you need to know to succeed in this class.
 
-## Spirit
-
-We're going to learn how to play, experiment, learn and tinker -- all with the goal of exploring new ways to experience and consume information. This is a hands-on class, and participation is key. Let's have some fun and make great things.
-
 ## Location
 
-We generally meet in Room 432 every Monday from 9:30 a.m. to 12:20 pm, including a break. That said, there are several modifications to that due to holidays and other factors, so check out the dates below.
+We generally meet in Room 432 every Monday from 9:30 a.m. to 12:20 pm, including a break. That said, there are a few modifications due to holidays, so check out the dates below.
 
-### Computers in Class
+## Computers in Class
 
 Bring them! You'll use your computer in almost every class.
 
 Be here now. Please don't email, DM, tweet, chat or otherwise communicate with people outside the class during class. Your participation with other classmates is key. If you must take a call or a text for an urgent issue, please step out of the room.
 
-### Slack for Communications
+## Slack
 
 Let's strive for a no-email class. We'll communicate using Slack, like just about every newsroom in the United States. It will also allow us to coordinate with journalists at Quartz and elsewhere.
 
@@ -45,14 +41,16 @@ Please format your "display name" using your full name, a slash, and your role. 
 
 ## Assignments
 
-There will be one assignment given in each class, due in the `#general` channel of Slack _by noon the Friday before the next class_. My intention is that most work for these assignments can be completed in class.
+There will be one assignment announced in class and posted on this site on class day. Responses to assignments are due via Slack _by 8 a.m. on the day of the next class._ Unless otherwise noted, these are due in a "public" channel, such as `#general`; please don't submit them to me directly via private message. 
+
+My intention is that most work for these assignments can be completed in class.
 
 ## Grading
 
 There are 100 points possible.
 
 * **Attendance:** 45 points possible, 3 points for each class attended. 
-* **Assignments:** 45 points possible, 3 points for each assignment successfully completed. Incomplete or low-effort submissions will get 1 or 2 points. Assignments turned in after noon on the due date receive 1 point.
+* **Assignments:** 45 points possible, 3 points for each assignment successfully completed on time. Incomplete or low-effort submissions will receive fewer or zero points. Assignments turned in after they are due receive a maximum of 1 point.
 * **Participation & Progress:** 10 points possible. This will be scored based on your active participation and contribution in class. Note that absences will naturally cut into your participation score.
 
 | Points | Grade |
@@ -67,6 +65,12 @@ There are 100 points possible.
 | 73-76 | C |
 | 70-72 | C- |
 | < 70 | F |
+
+## Absences
+
+Note that being absent really hurts your grade, and right away. But that's intentional — this is a team class, and your participation is key for you and your classmates.
+
+If you are absent for some reason, be sure to seek out and do the assignment for the week. You don't want to lose those points as well.
 
 ## Plagiarism
 
@@ -86,19 +90,60 @@ Please note that other forms of academic dishonesty include:
 - Fabrication of information, quotes, or sources.
 - Impeding the work of others.
 
-# The Syllabus
+# Syllabus and Class Notes
 
-Here's a rundown of what we'll cover in our weeks together:
+Generally, each class will start with a knowledge-building lesson and/or discussion. Specific class notes for these lessons will be posted on this site before each class.
+
+After a break, you will usually work directly on your investigation — coordinating with teammates, conducting research, analyzing data, making charts, writing, and/or meeting with the instructor.
+
+Below is a rundown of what I expect we'll cover in our weeks together. Be very aware, though, that this is a live journalism class: we will be working on real investigations we hope to publish, and we won't know the shape of those investigations at the outset. That means our class plans may change. Significant changes in class lessons, topics, or plans will be announced in class, posted in the `#general` Slack channel, and updated here at least a week ahed of time.
+
+**Notes** for each lesson will be posted here before each class.
+
+**Assignments** are due at 8 a.m. on the day of the next class (see details above).
 
 # Class 1 • Jan 27
 
+## Lesson
+
+
+
+## Notes
+
+- Introductions
+- Walk through everything at the top of this document, and answer any questions you may have.
+- We'll voice observations, curiosities, and concerns that might make for good investigations
+- We'll talk about platforms, communication channels, and more.
+- Newsletters and sources you should get hip to 
+- Conduct a quick survey
+
+
+## Assignment
+
+- Look for three articles that touch on three different issues you'd like to investigate. 
+- For each article, post a separate Slack message in the `#articles-stories` channel that includes the link and a sentence or two about the article explaining a) what caught your eye and b) how we might build on it with an investigation.  
+- You can't post articles someone else has posted! So act fast :-)
+
+Due by 8 a.m. on February 3.
+
 # Class 2 • Feb 3
 
+## Lesson
+
+
 # Class 3 • Feb 10
+
+## Lesson
+
+
+## Assignment
+
+TBD! Due by 8 a.m. on the next class day.
 
 **Note!** No class next week.
 
 # Class 4 • Feb 24
+
 
 # Class 5 • Mar 2
 
