@@ -31,9 +31,9 @@ J. Barnard Gilmore, “Play: A Special behavior.” In Child’s Play, edited by
 
 [Slides](./documents/Keefe_Play_at_Work.pdf)
 
-[Make Every Week](http://johnkeefe.net/make-every-week-begets-a-book) is my list of 30 projects I make over the course of the 2015 calendar year. 
+[Make Every Week](https://johnkeefe.net/make-every-week-begets-a-book) is my list of 30 projects I make over the course of the 2015 calendar year. 
 
-[Family Projects for Smart Objects](https://www.amazon.com/dp/1680451235) the book I wrote as a result of my [Make Every Week](http://johnkeefe.net/make-every-week-begets-a-book) project.
+[Family Projects for Smart Objects](https://www.amazon.com/dp/1680451235) the book I wrote as a result of my [Make Every Week](https://johnkeefe.net/make-every-week-begets-a-book) project.
 
 ## Wednesday: Design Thinking | Play & Spirituality
 
@@ -53,4 +53,4 @@ J. Barnard Gilmore, “Play: A Special behavior.” In Child’s Play, edited by
 
 [Gardening at Night: One Dad’s Guide to Minecraft](https://medium.com/@jkeefe/gardening-at-night-81972a060908)
 
-[Chibimojis: A dad and his daughter walk into the App Store](http://johnkeefe.net/chibimojis-a-dad-and-his-daughter-walk-into-the-app-store)
+[Chibimojis: A dad and his daughter walk into the App Store](https://johnkeefe.net/chibimojis-a-dad-and-his-daughter-walk-into-the-app-store)

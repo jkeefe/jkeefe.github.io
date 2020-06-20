@@ -43,7 +43,7 @@ Here's where you'll find resources, code, links, and notes for every class. Mate
 
 - SMS bot: Text "hi" to `(646) 699-3322`
 - Better Weather
-- Hot duck: [hotduck.today](http://hotduck.today/)
+- Hot duck: [hotduck.today](https://hotduck.today/)
 
 ## Logistics & plan
 
@@ -120,7 +120,7 @@ What we did last week:
 
 - Go to the Glitch console
 - Change directory into the `.data` directory by typing `cd .data`
-- To get the CSV, type this `wget "http://media.johnkeefe.net/class-modules/nyc_dogs_2012.csv"`
+- To get the CSV, type this `wget "https://media.johnkeefe.net/class-modules/nyc_dogs_2012.csv"`
 - To start the database, type `sqlite3 dogs.db`
 - To switch into CSV mode type `.mode csv`
 - To import the CSV into our database, type `.import nyc_dogs_2012.csv doginfo`
@@ -283,10 +283,10 @@ app.post('/text/name', function(request,response) {
 
 ### Set Up Twilio
 
-We'll be using [Twilio](http://twilio.com) to make the connection between the telephone systems and your code.
+We'll be using [Twilio](https://twilio.com) to make the connection between the telephone systems and your code.
 
 - Open a new browser tab
-- Go to [Twilio](http://twilio.com)
+- Go to [Twilio](https://twilio.com)
 - "Sign up" to make a free trial account.
     - Use: SMS
     - Project: SMS Surveys
@@ -619,13 +619,13 @@ If you can't do this in class, or were not in class, use [QuickTime to make a sc
 
 ## Build a bot using Dexter
 
-We'll step through the [slides for today's class](http://media.johnkeefe.net/chatbot-workshop/assets/player/KeynoteDHTMLPlayer.html#24).
+We'll step through the [slides for today's class](https://media.johnkeefe.net/chatbot-workshop/assets/player/KeynoteDHTMLPlayer.html#24).
 
 ## Assignment
 
 _This is the "Class 6" assignment. Do it now ... it's due on at high noon before Class 7._
 
-Go through the [Build-a-Bot workshop using Dexter](http://media.johnkeefe.net/chatbot-workshop/assets/player/KeynoteDHTMLPlayer.html#24) and publishing all of your topics to the web. Then **paste the `pste.eu` url for your bot into Slack.**
+Go through the [Build-a-Bot workshop using Dexter](https://media.johnkeefe.net/chatbot-workshop/assets/player/KeynoteDHTMLPlayer.html#24) and publishing all of your topics to the web. Then **paste the `pste.eu` url for your bot into Slack.**
 
 That's it! If you get errors, hit me up in Slack. Give yourself time to work on it and debug it. 
 
@@ -695,7 +695,7 @@ What's the trigger? What's the response?
         ```
 
 - Dark Sky API
-    - http://darksky.net/dev
+    - https://darksky.net/dev
     - sign up for an account
     - see your key
     - try your key: [`https://api.darksky.net/forecast/YOUR_KEY_HERE/40.755,-73.991`](https://api.darksky.net/forecast/YOUR_KEY_HERE/40.755,-73.991)
@@ -756,7 +756,7 @@ or
 Amazing, arcane "searching on steroids."
 
 - [Rubular](https://rubular.com/)
-- [The bastard's book of regular expressions](http://regex.bastardsbook.com/files/bastards-regexes.pdf)
+- [The bastard's book of regular expressions](https://regex.bastardsbook.com/files/bastards-regexes.pdf)
 
 ### Tweeting from Glitch
 
@@ -784,7 +784,7 @@ _This is the "Class 8" assignment. Do it now ... it's due at high noon before Cl
 ## Google Spreadsheet Dashboards
 
 - Going to use coinbase.com
-- NYC info is: http://api.coinbase.com
+- NYC info is: https://api.coinbase.com
 - Great dashboard info here: https://www.benlcollins.com/apps-script/beginner-apis/
 - Which is also here: https://github.com/benlcollins/apps_script_apis/blob/master/for_website/001_numbers.gs
 - We'll add in `JSON.parse(data)` to those examples

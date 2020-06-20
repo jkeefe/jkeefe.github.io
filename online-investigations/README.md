@@ -104,23 +104,37 @@ Below is a rundown of what I expect we'll cover in our weeks together. Be very a
 
 # Class 1 • Jan 27
 
-Hello! In this class we'll get to know each other, agree on the 
+Hello! In this class we'll get to know each other, agree on the logistics and outlines of the semester, and dive into the plan. We'll also discuss possibilities and ideas for investigative pursuits. 
 
 ## Notes
 
 - Introductions
+    - Around the room ...
+        - Who are you?
+        - What's your Newmark J School focus?
+        - Why pick this class?
+        - How do you communicate with friends and family?
+    - A bit about me
+        - [Personal website](https://johnkeefe.net)
+        - [Work website](https://qz.com)
+        - [Quartz AI Studio](https://qz.ai/)
+        - Twitter: [@jkeefe](https://twitter.com/jkeefe)
+        - Email: john.keefe (at) journalism.cuny.edu
+        - Slack is better!
+        
 - Walk through everything at the top of this document, and answer any questions you may have.
 - We'll voice observations, curiosities, and concerns that might make for good investigations
 - We'll talk about platforms, communication channels, and more.
 - Newsletters and sources you should get hip to 
-- Conduct a quick survey
 
+- What it means to run an open investigation
+    - Sketch out a social-media / tips / data / story / tips / etc plan
+
+- Conduct a quick survey
 
 ## Assignment
 
-- Look for three articles that touch on three different issues you'd like to investigate. 
-- For each article, post a separate Slack message in the `#articles-stories` channel that includes the link and a sentence or two about the article explaining a) what caught your eye and b) how we might build on it with an investigation.  
-- You can't post articles someone else has posted! So act fast :-)
+
 
 Due by 8 a.m. on February 3.
 

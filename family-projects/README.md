@@ -1,20 +1,20 @@
 # Family Projects for Smart Objects
   
-This is the companion website for [_Family Projects for Smart Objects: Tabletop Projects That Respond to Your World_](http://amzn.to/2cY2PAH) by [John Keefe](http://johnkeefe.net). Here you'll find all the parts, information and code you need for every project in the book.
+This is the companion website for [_Family Projects for Smart Objects: Tabletop Projects That Respond to Your World_](https://amzn.to/2cY2PAH) by [John Keefe](https://johnkeefe.net). Here you'll find all the parts, information and code you need for every project in the book.
 
 # The Book
 
 ![Family Projects for Smart Objects](images/FamilyProjectsCoverSmall200.png)
 
-[_Family Projects for Smart Objects_](http://amzn.to/2cY2PAH) is available in paperback and as an e-book.
+[_Family Projects for Smart Objects_](https://amzn.to/2cY2PAH) is available in paperback and as an e-book.
 
-[Buy at Amazon >](http://amzn.to/2cY2PAH)
+[Buy at Amazon >](https://amzn.to/2cY2PAH)
 
 # The Author
 
 ![John Keefe](images/keefe_bridge_200.jpg)
 
-John Keefe describes himself as a "professional beginner" and loves making new things. When he does, he posts them on [his website](http://johnkeefe.net) and talks about them [on Twitter](http://twitter.com/jkeefe).  He's also the Senior Editor on the Data News Team at public radio station WNYC in New York, teaches and leads workshops at NYC colleges and universities, founded an invention collaborative called Really Good Smarts LLC and is dad to two awesome daughters. 
+John Keefe describes himself as a "professional beginner" and loves making new things. When he does, he posts them on [his website](https://johnkeefe.net) and talks about them [on Twitter](https://twitter.com/jkeefe).  He's also the Senior Editor on the Data News Team at public radio station WNYC in New York, teaches and leads workshops at NYC colleges and universities, founded an invention collaborative called Really Good Smarts LLC and is dad to two awesome daughters. 
 
 # The Community
 
@@ -39,7 +39,7 @@ To make these projects, you'll need a handful of hobby electronics parts, which 
 - [Adafruit Experimentation Kit for Arduino ($$)](https://www.adafruit.com/products/170)
 - [Adafruit Starter Pack for Arduino ($$)](https://www.adafruit.com/products/68)
 - [Adafruit Budget Pack for Arduino ($)](https://www.adafruit.com/products/193)
-- [Make: Getting Started with Arduino Kit, Special Edition ($$)](http://www.makershed.com/products/make-getting-started-kit-arduino-uno-r3)
+- [Make: Getting Started with Arduino Kit, Special Edition ($$)](https://www.makershed.com/products/make-getting-started-kit-arduino-uno-r3)
 - [Sparkfun Invetor's Kit for Arduino ($$$$)](https://www.sparkfun.com/products/13844)
 - [SparkFun Inventor's Kit for Arduino - V3.2 ($$$)](https://www.sparkfun.com/products/13154)
 
@@ -71,7 +71,7 @@ This is the kickoff chapter in the book, and all about getting your Arduino up a
 
 You can buy just these parts from Adafruit or Sparkfun using the buttons below.
 
-[Buy from Adafruit >](http://www.adafruit.com/wishlists/403572) [Buy from Sparkfun >](https://www.sparkfun.com/wish_lists/127673)
+[Buy from Adafruit >](https://www.adafruit.com/wishlists/403572) [Buy from Sparkfun >](https://www.sparkfun.com/wish_lists/127673)
 
 These ingredients are also found in all of the Arduino starter kits [I've listed](#kits).
 
@@ -81,9 +81,9 @@ The book outlines how to install Arduino software on Mac, Windows or Ubuntu comp
 
 - [Getting Started with Arduino on Mac OS](https://www.arduino.cc/en/Guide/MacOSX)
 - [Getting Started with Arduino on Windows](https://www.arduino.cc/en/Guide/Windows)
-- [Installing Arduino on Ubuntu](http://playground.arduino.cc/Linux/Ubuntu)
-- [Installing Arduino for Debian](http://playground.arduino.cc/Linux/Debian)
-- [Installing Arduino on Fedora](http://playground.arduino.cc/Linux/Fedora)
+- [Installing Arduino on Ubuntu](https://playground.arduino.cc/Linux/Ubuntu)
+- [Installing Arduino for Debian](https://playground.arduino.cc/Linux/Debian)
+- [Installing Arduino on Fedora](https://playground.arduino.cc/Linux/Fedora)
 
 ## 2. Hello Blinky World
 
@@ -121,7 +121,7 @@ You can also copy it from here.
   Most Arduinos have an on-board LED you can control. On the Uno and
   Leonardo, it is attached to digital pin 13. If you are unsure what
   pin the on-board LED is connected to on your Arduino model, check
-  the documentation at http://www.arduino.cc
+  the documentation at https://www.arduino.cc
 
   This example code is in the public domain.
 
@@ -206,7 +206,7 @@ It's written out below.
 
  This example code is in the public domain.
 
- http://www.arduino.cc/en/Tutorial/AnalogInput
+ https://www.arduino.cc/en/Tutorial/AnalogInput
 
  */
 
@@ -283,11 +283,11 @@ Here's the sketch used for this project.
  Lights an LED when the room is dark.
 
  By John Keefe, January 2016
- http://keefe.cc/night-light
+ https://keefe.cc/night-light
 
  Based on example code created by David Cuartielles
  modified 30 Aug 2011 by Tom Igoe
- http://www.arduino.cc/en/Tutorial/AnalogInput
+ https://www.arduino.cc/en/Tutorial/AnalogInput
 
  This code is in the public domain.
  
@@ -397,7 +397,7 @@ You can use the code below, too, which is slight modified for to amplify the sen
 
  This example code is in the public domain.
 
- http://www.arduino.cc/en/Tutorial/AnalogInput
+ https://www.arduino.cc/en/Tutorial/AnalogInput
 
  Further Modified by John Keefe 
  May 2016
@@ -535,8 +535,8 @@ Here's the code used for this project.
 /*
  CapacitiveSense.h - Capacitive Sensing Library for 'duino / Wiring
  https://github.com/PaulStoffregen/CapacitiveSensor
- http://www.pjrc.com/teensy/td_libs_CapacitiveSensor.html
- http://playground.arduino.cc/Main/CapacitiveSensor
+ https://www.pjrc.com/teensy/td_libs_CapacitiveSensor.html
+ https://playground.arduino.cc/Main/CapacitiveSensor
  Copyright (c) 2009 Paul Bagder
  Updates for other hardware by Paul Stoffregen, 2010-2016
  vim: set ts=4:
@@ -596,8 +596,8 @@ You'll find all of the sketches within "chapter" folders in that file. The sketc
 
 In this chapter, I mention other fabrics you can use instead of foil and the ability to sew Arduinos right onto fabric -- so you could actually sew touch-sensitive "buttons" (and LEDs and lots of other things) into clothing. Here are some useful links to get you exploring:
 
-- [Sewable -- and conductive! -- copper taffeta fabric](http://www.lessemf.com/fabric4.html#1212)
-- [All about sewable Lilypad Arduinos & projects](http://lilypadarduino.org/)
+- [Sewable -- and conductive! -- copper taffeta fabric](https://www.lessemf.com/fabric4.html#1212)
+- [All about sewable Lilypad Arduinos & projects](https://lilypadarduino.org/)
 - [Lilypad Arduinos and other parts at Sparkfun](https://www.sparkfun.com/categories/135?page=all)
 
 
@@ -643,7 +643,7 @@ Here's the code for this chapter.
 ```arduino
 /*
  Analog Input
- http://www.arduino.cc/en/Tutorial/AnalogInput
+ https://www.arduino.cc/en/Tutorial/AnalogInput
 
  Created by David Cuartielles
  modified 30 Aug 2011 by Tom Igoe
@@ -884,7 +884,7 @@ Here's the sketch used in this chapter:
 ```arduino
 /* Ping))) Sensor
 
-   http://www.arduino.cc/en/Tutorial/Ping
+   https://www.arduino.cc/en/Tutorial/Ping
    
    created 3 Nov 2008
    by David A. Mellis
@@ -944,7 +944,7 @@ long microsecondsToInches(long microseconds)
   // 73.746 microseconds per inch (i.e. sound travels at 1130 feet per
   // second).  This gives the distance travelled by the ping, outbound
   // and return, so we divide by 2 to get the distance of the obstacle.
-  // See: http://www.parallax.com/dl/docs/prod/acc/28015-PING-v1.3.pdf
+  // See: https://www.parallax.com/dl/docs/prod/acc/28015-PING-v1.3.pdf
   return microseconds / 74 / 2;
 }
 
@@ -997,9 +997,9 @@ Hit the button below to see all the parts for this project listed on Sparkfun, i
 
 ### Code
 
-To use the wifi board with the Arduino, we use a libary from Sparkfun, which is [available as a zip file](http://bit.ly/sparkfun-wifi). To add the library to your Arudino software ...
+To use the wifi board with the Arduino, we use a libary from Sparkfun, which is [available as a zip file](https://bit.ly/sparkfun-wifi). To add the library to your Arudino software ...
 
-- Download the "wifi" library by [clicking this link](http://bit.ly/sparkfun-wifi).
+- Download the "wifi" library by [clicking this link](https://bit.ly/sparkfun-wifi).
 - That should download a compressed file with a ridiculously long name called `SparkFun_ESP8266_AT_Arduino_Library-master.zip`. Don't unzip it!
 - Start your Arduino software (if it's not running already).
 - From the menu bar, select _Sketch_ &#8594; _Include Library_ &#8594; _Add .ZIP Library ..._
@@ -1610,8 +1610,8 @@ void getWeather()
     // Is it raining in the next 12-15 hours? Let's find out.    
 
     // Openweathermap.org sends the 5-day forecast in a stream of data
-    // formatted as seen here: http://openweathermap.org/forecast5#JSON .
-    // Here's a full sample: http://keefe.cc/sensing-internet/sample-data.json
+    // formatted as seen here: https://openweathermap.org/forecast5#JSON .
+    // Here's a full sample: https://keefe.cc/sensing-internet/sample-data.json
     
     // In that stream, there are 40 forecasts, one for every 3 hours 
     // over the next 5 days. So for the next 12-15 hours, we want to check
@@ -1619,7 +1619,7 @@ void getWeather()
     
     // Each forecast has an "id" that indicates
     // the type of weather forecast. See chart here:
-    // http://openweathermap.org/weather-conditions
+    // https://openweathermap.org/weather-conditions
     // From the chart, we see that if the "id" starts with a 3 or a 5,
     // it's going to rain (or at least drizzle). The data looks like this:
     //      ... "weather":[{"id":500,"main": ... 
@@ -1719,10 +1719,10 @@ You'll find all of the sketches within "chapter" folders in that file. The sketc
 
 Here are some of the links mentioned in this chapter, for easy reference:
 
-- [OpenWeatherMap](http://openweathermap.org/) -- where we get the weather data.
-- [Get an OpenWeatherMap Key](http://openweathermap.org/appid) -- the place to get your free API key.
-- [LatLong.net](http://http://www.latlong.net/) -- to get the latitude and longitude where you are.
-- [OpenWeatherMap's Current Conditions API](http://openweathermap.org/current) -- more details on the data we're getting.
+- [OpenWeatherMap](https://openweathermap.org/) -- where we get the weather data.
+- [Get an OpenWeatherMap Key](https://openweathermap.org/appid) -- the place to get your free API key.
+- [LatLong.net](https://https://www.latlong.net/) -- to get the latitude and longitude where you are.
+- [OpenWeatherMap's Current Conditions API](https://openweathermap.org/current) -- more details on the data we're getting.
 
 
 ## 12. Send Email with a Button
@@ -1797,18 +1797,18 @@ Also includes "Button" example code:
  * 10K resistor attached to pin 2 from ground
 
  created 2005
- by DojoDave <http://www.0j0.org>
+ by DojoDave <https://www.0j0.org>
  modified 30 Aug 2011
  by Tom Igoe
 
  This example code is in the public domain.
- http://www.arduino.cc/en/Tutorial/Button
+ https://www.arduino.cc/en/Tutorial/Button
 
 ****
 
 Updated for IFTTT
 by John Keefe
-http://johnkeefe.net
+https://johnkeefe.net
 June 2016
 
 
@@ -2049,9 +2049,9 @@ You'll find all of the sketches within "chapter" folders in that file. The sketc
 
 ### Useful Links
 
-This project uses the [IFTTT website](http://ifttt.com) to turn our button-press into an email. Here are some useful links:
+This project uses the [IFTTT website](https://ifttt.com) to turn our button-press into an email. Here are some useful links:
 
-- [IFTTT home page](http://ifttt.com)
+- [IFTTT home page](https://ifttt.com)
 - [IFTTT sign up page](https://ifttt.com/join)
 - [Maker channel on IFTTT](https://ifttt.com/maker)
 
@@ -2268,9 +2268,9 @@ You'll find all of the sketches within "chapter" folders in that file. The sketc
 
 ### Useful Links
 
-In this chapter, we post data to a free data-gathering website made by Sparkfun. We also also export it to another website called. [Analog.io](http://analog.io). Here are the key links:
+In this chapter, we post data to a free data-gathering website made by Sparkfun. We also also export it to another website called. [Analog.io](https://analog.io). Here are the key links:
 
-- [data.sparkfun.com](http://data.sparkfun.com)
-- [Analog.io sign up page](http://analog.io/users/sign_up)
+- [data.sparkfun.com](https://data.sparkfun.com)
+- [Analog.io sign up page](https://analog.io/users/sign_up)
 
 <script>newIDs();</script>
